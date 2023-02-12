@@ -2012,10 +2012,10 @@
     (path "/051eec55-ee2d-448a-b36b-1abb35798ad0"
       (reference "IC?") (unit 1) (value "STM32MP151AAC3") (footprint "STM32MP151AAC3")
     )
-    (path "/5731d22b-18c2-4920-9f80-2a6ce209edf2/8d4fe5c3-752e-43d3-85a5-f7b50102265e"
+    (path "/5731d22b-18c2-4920-9f80-2a6ce209edf2/909de81b-5113-4b4a-aba9-f1871198e8a4"
       (reference "IC?") (unit 1) (value "STPMIC1EPQR") (footprint "QFN40P500X600X80-45N-D")
     )
-    (path "/f5831ad7-86f4-4338-9d6c-a9943f11383a/8e356ea9-0041-4e81-a624-6a387dfdb111"
+    (path "/f5831ad7-86f4-4338-9d6c-a9943f11383a/d3a229fb-c1df-440d-af23-d28401a5fcbe"
       (reference "IC?") (unit 1) (value "MT41K256M16TW-107_P") (footprint "BGA96C80P9X16_800X1400X120")
     )
     (path "/5731d22b-18c2-4920-9f80-2a6ce209edf2/5be84757-bcdf-4d36-9c97-2d11d25a53ed"

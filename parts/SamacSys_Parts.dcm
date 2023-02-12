@@ -1,0 +1,141 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP MP2329GG-Z
+D 24V 6.5A LOW IQ SYNC BUCK - Tape and Reel
+K
+F https://www.monolithicpower.cn/cn/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2329/document_id/3934
+$ENDCMP
+#
+$CMP RK09D113BF25B15
+D Potentiometers V/ADJ 100K 25MM SHFT
+K
+F https://componentsearchengine.com/Datasheets/1/RK09D113BF25B15.pdf
+$ENDCMP
+#
+$CMP SRN8040TA-3R3Y
+D fixed Inductor 3.3uH 6.2A non-Shielded
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRN8040TA.pdf
+$ENDCMP
+#
+$CMP PJ-063BH
+D DC Power Connectors Power Jacks
+K
+F 
+$ENDCMP
+#
+$CMP HD04-19-TH-TR
+D HDMI, Displayport & DVI Connectors HDMI 2.1, Receptacle Connector, 19 Position, Through Hole, Reel Packaging-1
+K
+F https://www.cuidevices.com/product/resource/digikeypdf/hd04-19-th-tr.pdf
+$ENDCMP
+#
+$CMP BAS16XV2T5G
+D Diodes - General Purpose, Power, Switching SWITCHING DIODE
+K
+F https://componentsearchengine.com/Datasheets/5/BAS16XV2T5G.pdf
+$ENDCMP
+#
+$CMP STPS160AFN
+D Schottky Diodes & Rectifiers
+K
+F https://www.st.com/resource/en/datasheet/stps160.pdf
+$ENDCMP
+#
+$CMP ESP32-C3FH4
+D RF System on a Chip - SoC SMD IC ESP32-C3FH4, single-core MCU, 2.4G Wi-Fi & BLE 5.0 combo, QFN 32-pin, 5*5 mm, 4 MB flash inside, -40C +105C
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
+$ENDCMP
+#
+$CMP SRP7050TA-R40M
+D Bourns SRP7050TA Series Shielded Wire-wound SMD Inductor with a Carbonyl Powder Core, 0.4 uH 23A Idc Q:10
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-12/225144.pdf
+$ENDCMP
+#
+$CMP TPN2R304PL,L1Q
+D MOSFET 40 Volt N-Channel
+K
+F 
+$ENDCMP
+#
+$CMP SK12D07VG4NSPA
+D Slide Switches Miniature Slide Switch
+K
+F https://www.ckswitches.com/media/1432/sk.pdf
+$ENDCMP
+#
+$CMP T2N7002BK,LM
+D MOSFET Small Signal Mosfet
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=30376&prodName=T2N7002BK
+$ENDCMP
+#
+$CMP LM5642XMTX_NOPB
+D High Voltage, Dual Synchronous Buck Converter with Oscillator Synchronization
+K
+F http://www.ti.com/lit/gpn/LM5642X
+$ENDCMP
+#
+$CMP TPS25750SRSMR
+D TPS25750SRSMR
+K
+F https://www.ti.com/lit/ds/symlink/tps25750.pdf?ts=1610417214819&ref_url=https%253A%252F%252Fwww.ti.com%252Finterface%252Fusb%252Ftype-c-and-power-delivery%252Fproducts.html
+$ENDCMP
+#
+$CMP 12401598E4#2A
+D Conn USB Type C RCP 24 POS 0.5mm Solder RA SMD 24 Terminal 1 Port Automotive
+K
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/12401598xxx2a.pdf
+$ENDCMP
+#
+$CMP TPS25750DRJKR
+D USB, Type-C Controller PMIC 38-WQFN (4x6)
+K
+F https://www.ti.com/lit/ds/symlink/tps25750.pdf?ts=1610417214819&ref_url=https%253A%252F%252Fwww.ti.com%252Finterface%252Fusb%252Ftype-c-and-power-delivery%252Fproducts.html
+$ENDCMP
+#
+$CMP CAT24C256YI-GT3
+D ON SEMICONDUCTOR - CAT24C256YI-GT3 - EEPROM, 256 Kbit, 32K x 8bit, Serial I2C (2-Wire), 1 MHz, TSSOP, 8 Pins
+K
+F http://www.onsemi.com/pub/Collateral/CAT24C256-D.PDF
+$ENDCMP
+#
+$CMP STM32MP151AAC3
+D STM32MP151AAC3, 32Bit Microcontrollers
+K
+F https://www.st.com/resource/en/datasheet/stm32mp151a.pdf
+$ENDCMP
+#
+$CMP MT41K256M16TW-107_P
+D MICRON - MT41K256M16TW-107:P - SDRAM, 256M X 16BIT, 0 TO 95DEG C
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS42/DSANUWW0045409.pdf
+$ENDCMP
+#
+$CMP STPMIC1EPQR
+D Power Management Specialised - PMIC 14 Output Rails PMIC 4 Adjustable (COT) Buck SMPS converters BOOST with Bypass
+K
+F https://www.arrow.com/en/products/stpmic1epqr/stmicroelectronics
+$ENDCMP
+#
+$CMP DF40C-100DP-0.4V_51_
+D HIROSE(HRS) - DF40C-100DP-0.4V(51) - CONN, STACKING, HEADER, 100POS, 2ROW
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-7/sf-000141247.pdf
+$ENDCMP
+#
+$CMP DF40C-100DS-0.4V_51_
+D HIROSE(HRS) - DF40C-100DS-0.4V(51) - CONNECTOR, STACKING, RCPT, 100POS, 2ROW
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-7/sf-000141247.pdf
+$ENDCMP
+#
+#End Doc Library
