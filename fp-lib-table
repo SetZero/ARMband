@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/parts/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "ARMband")(type "KiCad")(uri "${KIPRJMOD}/ARMband.pretty")(options "")(descr ""))
 )
