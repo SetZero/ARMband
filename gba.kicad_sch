@@ -772,7 +772,7 @@
       (symbol "STM32MP157AAB3_(modified)_1_1"
         (rectangle (start 0 106.68) (end 45.72 -139.065)
           (stroke (width 0) (type default))
-          (fill (type none))
+          (fill (type background))
         )
       )
       (symbol "STM32MP157AAB3_(modified)_2_0"
@@ -1472,7 +1472,7 @@
       (symbol "STM32MP157AAB3_(modified)_2_1"
         (rectangle (start -127 23.495) (end 132.715 -23.495)
           (stroke (width 0) (type default))
-          (fill (type none))
+          (fill (type background))
         )
       )
     )
