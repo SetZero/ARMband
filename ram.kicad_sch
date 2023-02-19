@@ -454,6 +454,14 @@
   )
 
 
+  (global_label "VREF_DDR" (shape input) (at 27.94 139.7 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 34a2eccf-6711-469e-8954-3413eb8d5169)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 15.6604 139.7 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+
   (symbol (lib_id "mp1lib:MT41K256M16TW-107_P") (at 33.02 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d3a229fb-c1df-440d-af23-d28401a5fcbe)
