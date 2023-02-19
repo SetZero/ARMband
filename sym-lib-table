@@ -3,4 +3,5 @@
   (lib (name "mp1lib")(type "KiCad")(uri "D:/SamacSys_PCB_Library/KiCad/SamacSys_Parts.kicad_sym")(options "")(descr "")(disabled))
   (lib (name "ARMband")(type "KiCad")(uri "${KIPRJMOD}/ARMband.kicad_sym")(options "")(descr ""))
   (lib (name "SamacSys_Parts")(type "KiCad")(uri "D:/SamacSys_PCB_Library/KiCad/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+  (lib (name "SamacSys_Parts2")(type "KiCad")(uri "D:/SamacSys_PCB_Library/LibLoaderHatesMe/SamacSys_Parts.kicad_sym")(options "")(descr ""))
 )
