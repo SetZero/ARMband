@@ -2966,6 +2966,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ac146d81-ac30-4d0b-b137-f253e75467e2)
   )
+  (text "DNP\n- We want to use a SD-Card for the first revision"
+    (at 353.06 97.79 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bee1a949-a1b5-42c3-855d-087902e51a36)
+  )
   (text "eMMC - SDCard Mode" (at 331.47 27.94 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e1abcbde-6619-406f-8000-fa4ddaa6c861)
@@ -3176,7 +3181,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 344.17 86.36 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 031fc40f-7bde-48a1-8cc9-3da9b73d7183)
     (property "Reference" "C28" (at 346.4941 85.7226 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3459,7 +3464,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 392.43 55.88 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 92adf041-13e1-4d18-95c2-4c241af2d59c)
     (property "Reference" "C27" (at 394.7541 55.2426 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4024,7 +4029,7 @@
   )
 
   (symbol (lib_id "ARMband:S40FC004C1B2C00000") (at 384.81 34.29 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid bf7043de-822b-4bb9-8a00-e37793b3cafb)
     (property "Reference" "IC7" (at 364.49 27.5209 0)
       (effects (font (size 1.27 1.27)))
