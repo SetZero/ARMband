@@ -2,5 +2,5 @@
   (version 7)
   (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/parts/SamacSys_Parts.pretty")(options "")(descr ""))
   (lib (name "ARMband")(type "KiCad")(uri "${KIPRJMOD}/ARMband.pretty")(options "")(descr ""))
-  (lib (name "FuckOff")(type "KiCad")(uri "D:/SamacSys_PCB_Library/LibLoaderHatesMe/SamacSys_Parts.pretty")(options "")(descr "")(disabled))
+  (lib (name "FuckOff")(type "KiCad")(uri "D:/SamacSys_PCB_Library/LibLoaderHatesMe/SamacSys_Parts.pretty")(options "")(descr ""))
 )
