@@ -1917,7 +1917,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 78bd6b03-cf1e-4d2b-a668-59b69a671662)
   )
-  (text "A standard fly-by topology is comprised of:\n• A distributed A/C bus with 56 Ω on-board\n  termination at VTT (VDD_DDR/2)"
+  (text "A standard fly-by topology is comprised of:\n• A distributed A/C bus with 56 Ω on-board\n  termination at VTT (BUCK2_1V35/2)"
     (at 240.03 50.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 90bc033f-3493-4bb9-9152-c91801519db1)
