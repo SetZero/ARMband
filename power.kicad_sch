@@ -6702,7 +6702,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 612ff619-2e88-4be5-802c-5f599d03b03f)
   )
-  (text "used for STUSB VSYS (3V-5V)" (at 115.57 209.55 0)
+  (text "changed to 3V3\nused for STUSB VSYS (3V-5V)" (at 123.19 209.55 0)
     (effects (font (size 1.27 1.27) (color 255 0 24 1)) (justify left bottom))
     (uuid 6945ba67-bc7a-4d6f-85e2-a37447fe7567)
   )
@@ -6765,8 +6765,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c5aef099-375e-401f-8466-bb5a57d8e559)
   )
-  (text "VBAT other uses:\n\nSeems like this pin is used if you want to power it throug a battery.\nHowever, we already power our whole circuit through a battery + regulators.\n\nSo connect regulators should be perfectly fine."
-    (at 252.73 281.94 0)
+  (text "VBAT other uses:\n\nSeems like this pin is used if you want to power it throug a battery.\nHowever, we already power our whole circuit through a battery + regulators.\n\nSo connect regulators should be perfectly fine.\n\nVBAT must be in range 1.2 - 3.6V"
+    (at 252.73 285.75 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ca029269-ed3e-40b7-95a4-c3ace022d084)
   )
@@ -6778,8 +6778,7 @@
     (effects (font (size 1.27 1.27) (color 255 0 24 1)) (justify left bottom))
     (uuid ce55c327-fd13-4203-b4d0-99aca6eec23d)
   )
-  (text "TODO: change to 1V8\nuse BUCK4, since it can supply 2A"
-    (at 124.46 231.14 0)
+  (text "changed to 1V8\nuse BUCK4, since it can supply 2A" (at 124.46 231.14 0)
     (effects (font (size 1.27 1.27) (color 255 0 24 1)) (justify left bottom))
     (uuid d68d06a8-506c-4bd8-bc06-38ac22fcb2c1)
   )
