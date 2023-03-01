@@ -6662,6 +6662,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2a7762ee-ad3b-4b15-be15-64bf2cd41e5f)
   )
+  (text "TODO: Set to 2V9 and use for SD" (at 127 344.17 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2a9a6254-96bd-457f-a553-9b5ca35b3ab7)
+  )
   (text "Caution: Datasheet P. 123\n\"Each power supply pair (VDD /VSS , VDDCORE/VSS, VDDA/VSSA ...) must be decoupled with\nfiltering ceramic capacitors. These capacitors must be placed as close as possible to, or\nbelow, the appropriate pins on the underside of the PCB to ensure good operation of the device.\""
     (at 194.31 389.89 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold (color 255 0 13 1)) (justify left bottom))
