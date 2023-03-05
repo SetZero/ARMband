@@ -491,6 +491,10 @@
     [
       "f5831ad7-86f4-4338-9d6c-a9943f11383a",
       "RAM"
+    ],
+    [
+      "647ca51e-1670-44f9-a82c-44b1c60d10f9",
+      "Communication"
     ]
   ],
   "text_variables": {}

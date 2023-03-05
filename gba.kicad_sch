@@ -6108,6 +6108,23 @@
     )
   )
 
+  (sheet (at 299.72 203.2) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 647ca51e-1670-44f9-a82c-44b1c60d10f9)
+    (property "Sheetname" "Communication" (at 299.72 202.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "communication.kicad_sch" (at 299.72 216.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "gba"
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14" (page "4"))
+      )
+    )
+  )
+
   (sheet (at 330.2 203.2) (size 25.4 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
