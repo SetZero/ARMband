@@ -5840,7 +5840,7 @@
   (symbol (lib_id "Device:R_Small") (at 254 77.47 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ed0f7a88-ebef-4ac4-ab17-ba93bbf985ed)
-    (property "Reference" "R" (at 256.54 76.835 0)
+    (property "Reference" "R63" (at 256.54 76.835 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1k" (at 256.54 79.375 0)
@@ -5860,7 +5860,7 @@
     (instances
       (project "gba"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14"
-          (reference "R") (unit 1)
+          (reference "R63") (unit 1)
         )
       )
     )

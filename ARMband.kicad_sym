@@ -5528,7 +5528,7 @@
           (xy 5.08 20.32)
         )
         (stroke (width 0.1524) (type solid))
-        (fill (type none))
+        (fill (type background))
       )
     )
   )
