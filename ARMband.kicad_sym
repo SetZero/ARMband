@@ -721,7 +721,7 @@
     (property "Value" "" (at -7.62 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at -7.62 0 0)
+    (property "Footprint" "ARMband:Murata 1YN" (at -7.62 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at -7.62 0 0)

@@ -7711,8 +7711,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cc01ebae-18c6-420b-a05d-b2da66733d38)
   )
-  (text "TODO: change to 1V8\nuse BUCK4, since it can supply 2A"
-    (at 123.19 229.87 0)
+  (text "changed to 1V8!\n" (at 123.19 229.87 0)
     (effects (font (size 1.27 1.27) (color 255 0 24 1)) (justify left bottom))
     (uuid d68d06a8-506c-4bd8-bc06-38ac22fcb2c1)
   )
