@@ -5360,7 +5360,7 @@
     (property "Value" "STM32MP157AAB3" (at 113.03 25.4 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "ARMband:BGA354C80P19X19_1600X1600X129" (at 102.235 2.54 0)
+    (property "Footprint" "ARMband:STM32MP157AAB_LFBGA354" (at 102.235 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32mp157a.pdf" (at 102.235 5.08 0)
