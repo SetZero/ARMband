@@ -255,7 +255,7 @@
         (number "P9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MEM2075-00-140-01-A_0_1"
+    (symbol "MEM2075-00-140-01-A_1_1"
       (polyline
         (pts
           (xy 5.08 2.54)
@@ -265,7 +265,7 @@
           (xy 5.08 2.54)
         )
         (stroke (width 0.1524) (type solid))
-        (fill (type none))
+        (fill (type background))
       )
     )
   )
@@ -1020,7 +1020,7 @@
         (number "D4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "NXS0506UPZ_0_1"
+    (symbol "NXS0506UPZ_1_1"
       (polyline
         (pts
           (xy 5.08 2.54)
@@ -1030,7 +1030,7 @@
           (xy 5.08 2.54)
         )
         (stroke (width 0.1524) (type solid))
-        (fill (type none))
+        (fill (type background))
       )
     )
   )

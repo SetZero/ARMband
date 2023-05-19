@@ -1435,7 +1435,7 @@
     )
     (pin "1" (uuid 089f4943-d1de-40a5-b7e6-170d2fce97f1))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "#PWR072") (unit 1)
         )
@@ -1461,7 +1461,7 @@
     (pin "1" (uuid 0c4a3b52-a5cd-4430-87d6-5df2d308abb7))
     (pin "2" (uuid e4e72242-1ff1-489a-aa36-cce21b904b6c))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "C113") (unit 1)
         )
@@ -1487,7 +1487,7 @@
     (pin "1" (uuid 78f4d566-f6bf-4719-a9d6-e4536daccb3a))
     (pin "2" (uuid be19d457-ce7a-44f8-8722-8d3a8d1596f7))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "C114") (unit 1)
         )
@@ -1512,7 +1512,7 @@
     )
     (pin "1" (uuid e7c1a6dd-c3e7-45ec-8d42-3b85e5d3afff))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "#PWR068") (unit 1)
         )
@@ -1538,7 +1538,7 @@
     (pin "1" (uuid 496d8ab5-0cf1-43b7-b9d1-cfdae70b8d18))
     (pin "2" (uuid b891bfbe-ebf6-4441-b492-4431f5b4057a))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "C117") (unit 1)
         )
@@ -1563,7 +1563,7 @@
     )
     (pin "1" (uuid a23f8250-2fa1-472d-874d-d0ef4a69321c))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "#PWR069") (unit 1)
         )
@@ -1589,7 +1589,7 @@
     (pin "1" (uuid a44232da-765c-46d6-af0d-2976c7aa546b))
     (pin "2" (uuid c9a7d38c-a027-420b-a428-3bad7cdd94e5))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "L9") (unit 1)
         )
@@ -1615,7 +1615,7 @@
     (pin "1" (uuid f35ac941-aaac-4ead-b2cc-c1beab38b9bd))
     (pin "2" (uuid 6bd91535-b6be-42f3-a32b-0690030d8fea))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "R67") (unit 1)
         )
@@ -1640,7 +1640,7 @@
     )
     (pin "1" (uuid fd8dd619-544e-456f-92a6-27c38d5173fd))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "#PWR099") (unit 1)
         )
@@ -1665,7 +1665,7 @@
     )
     (pin "1" (uuid 88d9b2c0-e663-4a28-b431-ce12437e4a6f))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "AE1") (unit 1)
         )
@@ -1691,7 +1691,7 @@
     (pin "1" (uuid f681cc3e-aeb0-43a9-ab87-55d0695f91c7))
     (pin "2" (uuid eed34ead-b96f-421e-8377-7113e763b567))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "R69") (unit 1)
         )
@@ -1717,7 +1717,7 @@
     (pin "1" (uuid 956e4a37-82b8-47be-845d-68eb38874cac))
     (pin "2" (uuid 8ced0751-9cd3-418f-afe7-e99ca4d589b6))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "L8") (unit 1)
         )
@@ -1743,7 +1743,7 @@
     (pin "1" (uuid ea528c64-38fb-4280-854c-f883e781d59b))
     (pin "2" (uuid 343c84ff-f2ae-45b2-b9d3-e32ef6616c2e))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "C69") (unit 1)
         )
@@ -1769,7 +1769,7 @@
     (pin "1" (uuid d3ee3f39-74f1-41fe-8871-7f83ed2f5172))
     (pin "2" (uuid ee117cd1-1e04-44c8-a488-8d57ba7e26eb))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "R71") (unit 1)
         )
@@ -1795,7 +1795,7 @@
     (pin "1" (uuid 9419c6f0-6365-4bbd-ab8e-826f2cc6826f))
     (pin "2" (uuid 38cd4ca5-e029-428b-9154-87e05dba580e))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "R68") (unit 1)
         )
@@ -1820,7 +1820,7 @@
     )
     (pin "1" (uuid a40063c4-f5f6-4bd9-94cf-4f4027e58362))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "#PWR067") (unit 1)
         )
@@ -1846,7 +1846,7 @@
     (pin "1" (uuid 62ff1a48-a3ca-4535-98cc-ad069fc2608d))
     (pin "2" (uuid 4514834a-4407-46fd-967b-bf779ee9aedc))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "AE2") (unit 1)
         )
@@ -1916,7 +1916,7 @@
     (pin "9" (uuid 943cdef0-f042-4f00-91f5-4075446f2dc5))
     (pin "33" (uuid acb65d7e-3e96-4c85-8cb6-a90fd986278b))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "U1") (unit 1)
         )
@@ -1944,7 +1944,7 @@
     (pin "3" (uuid bc2e3f72-6dd5-4afd-9e87-181bff85622c))
     (pin "4" (uuid a091c13e-0272-4242-b86c-bb6d8ae84631))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "X1") (unit 1)
         )
@@ -1970,7 +1970,7 @@
     (pin "1" (uuid beb7ec6a-5e94-4b75-9f96-2c02e656cf98))
     (pin "2" (uuid 8f939fcf-6728-4e4b-a67b-807aa1565fd4))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "R70") (unit 1)
         )
@@ -1996,7 +1996,7 @@
     (pin "1" (uuid 5b10a19e-65b0-4cec-a987-e33dab04b268))
     (pin "2" (uuid 6121cc84-7d5b-43da-a42e-ada0fb97168a))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "C73") (unit 1)
         )
@@ -2021,7 +2021,7 @@
     )
     (pin "1" (uuid 603e4b62-7586-45c9-acb0-ac8d3cf177dd))
     (instances
-      (project "gba"
+      (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
           (reference "#PWR070") (unit 1)
         )
