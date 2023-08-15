@@ -1580,7 +1580,7 @@
     (property "Value" "2.2u" (at 137.1673 148.7192 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 135.89 149.86 0)
+    (property "Footprint" "Inductor_SMD:L_0201_0603Metric" (at 135.89 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 135.89 149.86 0)
@@ -1663,6 +1663,9 @@
     (property "Datasheet" "~" (at 143.51 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "C5137195" (at 143.51 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 88d9b2c0-e663-4a28-b431-ce12437e4a6f))
     (instances
       (project "armband"
@@ -1708,7 +1711,7 @@
     (property "Value" "1n9894" (at 137.16 70.9223 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 137.16 72.39 0)
+    (property "Footprint" "Inductor_SMD:L_0201_0603Metric" (at 137.16 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 72.39 0)
