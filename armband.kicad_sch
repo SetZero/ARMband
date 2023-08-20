@@ -5002,7 +5002,7 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "DDR_DQ7" (shape input) (at 153.67 154.94 0) (fields_autoplaced)
+  (global_label "DDR_DQ9" (shape input) (at 153.67 154.94 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d6cb697b-1d82-4881-9155-0fd075861c58)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 165.1634 154.94 0)
