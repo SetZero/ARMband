@@ -2867,9 +2867,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C54") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C75") (unit 1)
-        )
       )
     )
   )
@@ -2895,9 +2892,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R46") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R71") (unit 1)
         )
       )
     )
@@ -2925,9 +2919,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C63") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C80") (unit 1)
-        )
       )
     )
   )
@@ -2954,9 +2945,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R41") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R64") (unit 1)
-        )
       )
     )
   )
@@ -2981,9 +2969,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "#PWR062") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "#PWR070") (unit 1)
         )
       )
     )
@@ -3011,9 +2996,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C52") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C69") (unit 1)
-        )
       )
     )
   )
@@ -3039,9 +3021,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R42") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R65") (unit 1)
         )
       )
     )
@@ -3069,9 +3048,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R20") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R67") (unit 1)
-        )
       )
     )
   )
@@ -3097,9 +3073,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R40") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R63") (unit 1)
         )
       )
     )
@@ -3127,9 +3100,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R49") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R74") (unit 1)
-        )
       )
     )
   )
@@ -3155,9 +3125,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C61") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C74") (unit 1)
         )
       )
     )
@@ -3185,9 +3152,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R48") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R73") (unit 1)
-        )
       )
     )
   )
@@ -3213,9 +3177,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R44") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R69") (unit 1)
         )
       )
     )
@@ -3243,9 +3204,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R31") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R83") (unit 1)
-        )
       )
     )
   )
@@ -3271,9 +3229,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R33") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R85") (unit 1)
         )
       )
     )
@@ -3301,9 +3256,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R43") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R68") (unit 1)
-        )
       )
     )
   )
@@ -3330,9 +3282,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R37") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R89") (unit 1)
-        )
       )
     )
   )
@@ -3358,9 +3307,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "#PWR057") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "#PWR071") (unit 1)
-        )
       )
     )
   )
@@ -3385,9 +3331,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "#PWR052") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "#PWR069") (unit 1)
         )
       )
     )
@@ -3415,9 +3358,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R25") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R77") (unit 1)
-        )
       )
     )
   )
@@ -3443,9 +3383,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C64") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C67") (unit 1)
         )
       )
     )
@@ -3473,9 +3410,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C65") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C68") (unit 1)
-        )
       )
     )
   )
@@ -3502,9 +3436,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R39") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R91") (unit 1)
-        )
       )
     )
   )
@@ -3530,9 +3461,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R29") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R81") (unit 1)
         )
       )
     )
@@ -3698,9 +3626,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R38") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R90") (unit 1)
-        )
       )
     )
   )
@@ -3726,9 +3651,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R36") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R88") (unit 1)
         )
       )
     )
@@ -3756,9 +3678,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R26") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R78") (unit 1)
-        )
       )
     )
   )
@@ -3785,9 +3704,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R34") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R86") (unit 1)
-        )
       )
     )
   )
@@ -3812,9 +3728,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "#PWR060") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "#PWR066") (unit 1)
         )
       )
     )
@@ -3842,9 +3755,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R52") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R66") (unit 1)
-        )
       )
     )
   )
@@ -3870,9 +3780,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R45") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R70") (unit 1)
         )
       )
     )
@@ -3900,9 +3807,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C53") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C72") (unit 1)
-        )
       )
     )
   )
@@ -3928,9 +3832,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C60") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C71") (unit 1)
         )
       )
     )
@@ -3958,9 +3859,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C58") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C76") (unit 1)
-        )
       )
     )
   )
@@ -3986,9 +3884,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C59") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C79") (unit 1)
         )
       )
     )
@@ -4016,9 +3911,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C57") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C73") (unit 1)
-        )
       )
     )
   )
@@ -4044,9 +3936,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R50") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R75") (unit 1)
         )
       )
     )
@@ -4074,9 +3963,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C55") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C78") (unit 1)
-        )
       )
     )
   )
@@ -4102,9 +3988,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "#PWR061") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "#PWR067") (unit 1)
-        )
       )
     )
   )
@@ -4129,9 +4012,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "#PWR063") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "#PWR068") (unit 1)
         )
       )
     )
@@ -4159,9 +4039,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R28") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R80") (unit 1)
-        )
       )
     )
   )
@@ -4186,9 +4063,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "#PWR058") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "#PWR072") (unit 1)
         )
       )
     )
@@ -4216,9 +4090,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R47") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R72") (unit 1)
-        )
       )
     )
   )
@@ -4244,9 +4115,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C62") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C77") (unit 1)
         )
       )
     )
@@ -4274,9 +4142,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R30") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R82") (unit 1)
-        )
       )
     )
   )
@@ -4301,9 +4166,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "#PWR059") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "#PWR073") (unit 1)
         )
       )
     )
@@ -4331,9 +4193,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R35") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R87") (unit 1)
-        )
       )
     )
   )
@@ -4359,9 +4218,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R32") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R84") (unit 1)
         )
       )
     )
@@ -4389,9 +4245,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "C56") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "C70") (unit 1)
-        )
       )
     )
   )
@@ -4418,9 +4271,6 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R51") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R76") (unit 1)
-        )
       )
     )
   )
@@ -4446,9 +4296,6 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
           (reference "R27") (unit 1)
-        )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/647ca51e-1670-44f9-a82c-44b1c60d10f9"
-          (reference "R79") (unit 1)
         )
       )
     )

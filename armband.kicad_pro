@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.19999999999999998
+          "min_clearance": 0.127
         }
       },
       "diff_pair_dimensions": [
@@ -173,6 +173,7 @@
       ],
       "track_widths": [
         0.0,
+        0.09,
         0.127
       ],
       "via_dimensions": [
@@ -524,10 +525,6 @@
     [
       "f5831ad7-86f4-4338-9d6c-a9943f11383a",
       "RAM"
-    ],
-    [
-      "647ca51e-1670-44f9-a82c-44b1c60d10f9",
-      "Communication"
     ],
     [
       "486c2044-10e8-4af1-b5d5-a133bea25b9d",
