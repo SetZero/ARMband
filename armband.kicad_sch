@@ -6989,6 +6989,23 @@
     )
   )
 
+  (sheet (at 299.72 222.25) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 486c2044-10e8-4af1-b5d5-a133bea25b9d)
+    (property "Sheetname" "flash" (at 299.72 221.5384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "flash.kicad_sch" (at 299.72 235.5346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "armband"
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14" (page "5"))
+      )
+    )
+  )
+
   (sheet (at 358.14 203.2) (size 22.86 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
