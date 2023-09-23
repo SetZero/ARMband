@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [
@@ -61,7 +61,7 @@
       "SD_CLK",
       "Net-(IC9-CLKB)",
       "Net-(IC9-DAT1B)",
-      "Net-(R55-Pad2)",
+      "Net-(J3-CD)",
       "BOOT0",
       "BOOT1",
       "BOOT2",
@@ -119,7 +119,6 @@
       "unconnected-(IC1A-PG12-PadF1)",
       "unconnected-(IC1A-PD8-PadF2)",
       "unconnected-(IC1A-PD14-PadF3)",
-      "unconnected-(IC1A-DDR_ZQ-PadF18)",
       "unconnected-(IC1A-PD15-PadG1)",
       "unconnected-(IC1A-PD9-PadG3)",
       "unconnected-(IC1A-PC14-_OSC32__IN-PadH1)",
