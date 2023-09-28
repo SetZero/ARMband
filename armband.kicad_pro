@@ -420,7 +420,7 @@
         "clearance": 0.09,
         "diff_pair_gap": 0.125,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.125,
+        "diff_pair_width": 0.09,
         "line_style": 0,
         "microvia_diameter": 0.25,
         "microvia_drill": 0.15,
@@ -437,12 +437,12 @@
         "clearance": 0.09,
         "diff_pair_gap": 0.125,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.125,
+        "diff_pair_width": 0.09,
         "line_style": 0,
         "microvia_diameter": 0.25,
         "microvia_drill": 0.15,
         "name": "DRAM_ADDR_CTRL",
-        "pcb_color": "rgb(255, 255, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.09,
         "via_diameter": 0.25,
@@ -454,12 +454,12 @@
         "clearance": 0.09,
         "diff_pair_gap": 0.125,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.125,
+        "diff_pair_width": 0.09,
         "line_style": 0,
         "microvia_diameter": 0.25,
         "microvia_drill": 0.15,
         "name": "DRAM_BANK0",
-        "pcb_color": "rgb(25, 255, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.09,
         "via_diameter": 0.25,
@@ -471,12 +471,12 @@
         "clearance": 0.09,
         "diff_pair_gap": 0.125,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.125,
+        "diff_pair_width": 0.09,
         "line_style": 0,
         "microvia_diameter": 0.25,
         "microvia_drill": 0.15,
-        "name": "DRAM_CLK",
-        "pcb_color": "rgb(237, 3, 255)",
+        "name": "DRAM_BANK1",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.09,
         "via_diameter": 0.25,
@@ -485,19 +485,19 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
+        "clearance": 0.09,
+        "diff_pair_gap": 0.125,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 1,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "Dashed",
+        "diff_pair_width": 0.09,
+        "line_style": 0,
+        "microvia_diameter": 0.25,
+        "microvia_drill": 0.15,
+        "name": "DRAM_CLK",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 0.09,
+        "via_diameter": 0.25,
+        "via_drill": 0.15,
         "wire_width": 6
       }
     ],
@@ -509,7 +509,7 @@
     "netclass_patterns": [
       {
         "netclass": "DRAM_BANK0",
-        "pattern": "DDR_DQ[0-9]+"
+        "pattern": "DDR_DQ[0-7]"
       },
       {
         "netclass": "DRAM_BANK0",
@@ -517,11 +517,7 @@
       },
       {
         "netclass": "DRAM_BANK0",
-        "pattern": "DDR_DQS0_*"
-      },
-      {
-        "netclass": "DRAM_BANK0",
-        "pattern": "DDR_DQM[0-9]+"
+        "pattern": "DDR_DQS1_*"
       },
       {
         "netclass": "DRAM_CLK",
@@ -538,6 +534,54 @@
       {
         "netclass": "DRAM_ADDR_CTRL",
         "pattern": "DDR_(WEN|CASN|RASN|CSN)"
+      },
+      {
+        "netclass": "DRAM_BANK1",
+        "pattern": "DDR_DQM0"
+      },
+      {
+        "netclass": "DRAM_BANK0",
+        "pattern": "DDR_DQM1"
+      },
+      {
+        "netclass": "DRAM_BANK1",
+        "pattern": "DDR_DQS0_P"
+      },
+      {
+        "netclass": "DRAM_BANK1",
+        "pattern": "DDR_DQS0_N"
+      },
+      {
+        "netclass": "DRAM_BANK1",
+        "pattern": "DDR_DQ15"
+      },
+      {
+        "netclass": "DRAM_BANK1",
+        "pattern": "DDR_DQ14"
+      },
+      {
+        "netclass": "DRAM_BANK1",
+        "pattern": "DDR_DQ13"
+      },
+      {
+        "netclass": "DRAM_BANK1",
+        "pattern": "DDR_DQ12"
+      },
+      {
+        "netclass": "DRAM_BANK1",
+        "pattern": "DDR_DQ11"
+      },
+      {
+        "netclass": "DRAM_BANK1",
+        "pattern": "DDR_DQ10"
+      },
+      {
+        "netclass": "DRAM_BANK1",
+        "pattern": "DDR_DQ9"
+      },
+      {
+        "netclass": "DRAM_BANK1",
+        "pattern": "DDR_DQ8"
       }
     ]
   },
