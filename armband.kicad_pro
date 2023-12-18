@@ -646,16 +646,28 @@
       ""
     ],
     [
-      "5731d22b-18c2-4920-9f80-2a6ce209edf2",
-      "power"
+      "5f118be0-d1f5-46b1-b05a-c3ccf67cbeb8",
+      "flash"
     ],
     [
-      "f5831ad7-86f4-4338-9d6c-a9943f11383a",
+      "ef131523-eb33-4e3e-9fee-5f05c80a50eb",
       "RAM"
     ],
     [
-      "486c2044-10e8-4af1-b5d5-a133bea25b9d",
-      "flash"
+      "7f18354f-bf3c-44d4-ad85-4b5de2cadafa",
+      "power"
+    ],
+    [
+      "4f745a0b-8724-4289-9dd5-c25d5562a5b2",
+      "old"
+    ],
+    [
+      "ae5dc462-dca9-40e4-ba02-6b87a86a4904",
+      "supply"
+    ],
+    [
+      "335f8207-a5d7-40b6-9f15-b2bc594f5ad6",
+      "peripherals"
     ]
   ],
   "text_variables": {}

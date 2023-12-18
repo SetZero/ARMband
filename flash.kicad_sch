@@ -152,7 +152,7 @@
   (symbol (lib_id "ARMband:IS25LP064A-JLLE") (at 64.77 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 219a5f16-8433-4242-aa02-a93ae9a924a0)
-    (property "Reference" "U2" (at 73.66 55.245 0)
+    (property "Reference" "U1" (at 73.66 55.245 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "IS25LP064A-JLLE" (at 73.66 57.785 0)
@@ -174,8 +174,8 @@
     (pin "8" (uuid b6c460a3-f74c-447c-9146-b5e0dd62b6a2))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/486c2044-10e8-4af1-b5d5-a133bea25b9d"
-          (reference "U2") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/5f118be0-d1f5-46b1-b05a-c3ccf67cbeb8"
+          (reference "U1") (unit 1)
         )
       )
     )
@@ -202,8 +202,8 @@
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14"
           (reference "#PWR065") (unit 1)
         )
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/486c2044-10e8-4af1-b5d5-a133bea25b9d"
-          (reference "#PWR075") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/5f118be0-d1f5-46b1-b05a-c3ccf67cbeb8"
+          (reference "#PWR01") (unit 1)
         )
       )
     )

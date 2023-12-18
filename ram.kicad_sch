@@ -2848,7 +2848,7 @@
   (symbol (lib_id "Device:C_Small") (at 264.16 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 080ac359-6226-481e-8a4b-c18ce10754d3)
-    (property "Reference" "C54" (at 266.4841 32.3826 0)
+    (property "Reference" "C9" (at 266.4841 32.3826 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 266.4841 34.3036 0)
@@ -2864,8 +2864,8 @@
     (pin "2" (uuid daa3acfe-29eb-48f9-ad75-91f535d67281))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C54") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -2874,7 +2874,7 @@
   (symbol (lib_id "Device:R_Small") (at 189.23 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 08213b65-df53-45c3-9517-88745aa40081)
-    (property "Reference" "R46" (at 189.23 45.7835 90)
+    (property "Reference" "R9" (at 189.23 45.7835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 189.23 47.7045 90)
@@ -2890,8 +2890,8 @@
     (pin "2" (uuid 9b5a5e11-a24e-4319-9d4b-d0f1306431ae))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R46") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -2900,7 +2900,7 @@
   (symbol (lib_id "Device:C_Small") (at 274.32 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0eddfa4a-82fd-4e0a-8fb1-5e0ffcfe845b)
-    (property "Reference" "C63" (at 276.6441 121.2826 0)
+    (property "Reference" "C14" (at 276.6441 121.2826 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 276.6441 123.2036 0)
@@ -2916,8 +2916,8 @@
     (pin "2" (uuid 418f91ec-7dcc-4cf8-9f95-52ab6f3a4ea8))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C63") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C14") (unit 1)
         )
       )
     )
@@ -2926,7 +2926,7 @@
   (symbol (lib_id "Device:R_Small") (at 144.78 41.91 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 123c9955-fdf6-48cd-a7d3-aa1de3bd0b95)
-    (property "Reference" "R41" (at 144.78 38.1635 90)
+    (property "Reference" "R2" (at 144.78 38.1635 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 144.78 40.0845 90)
@@ -2942,8 +2942,8 @@
     (pin "2" (uuid 4eddbfe5-9eab-435c-be88-1e9e3f4a97b4))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R41") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -2952,7 +2952,7 @@
   (symbol (lib_id "power:GND") (at 208.28 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 139cbd9d-1b22-4ff1-b655-bc3dc676fcfd)
-    (property "Reference" "#PWR062" (at 208.28 76.2 0)
+    (property "Reference" "#PWR06" (at 208.28 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 208.28 73.9855 0)
@@ -2967,8 +2967,8 @@
     (pin "1" (uuid f640f0f2-7525-4196-812d-e9892fe6bd1b))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "#PWR062") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "#PWR06") (unit 1)
         )
       )
     )
@@ -2977,7 +2977,7 @@
   (symbol (lib_id "Device:C_Small") (at 243.84 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1e3f8d52-d915-4424-984a-32f6828b691e)
-    (property "Reference" "C52" (at 246.1641 32.3826 0)
+    (property "Reference" "C3" (at 246.1641 32.3826 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 246.1641 34.3036 0)
@@ -2993,8 +2993,8 @@
     (pin "2" (uuid e10afdda-d1da-4506-a52c-2485cccfc382))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C52") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -3003,7 +3003,7 @@
   (symbol (lib_id "Device:R_Small") (at 146.05 85.09 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 21f4cda9-6eda-4ab5-9515-3f188987061b)
-    (property "Reference" "R42" (at 149.86 83.82 90)
+    (property "Reference" "R3" (at 149.86 83.82 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100R" (at 149.86 86.36 90)
@@ -3019,8 +3019,8 @@
     (pin "2" (uuid 4cf575b0-0a9a-4c18-b697-835a1db6433c))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R42") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -3029,7 +3029,7 @@
   (symbol (lib_id "Device:R_Small") (at 148.59 147.32 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 27522522-eeba-4356-84f5-898e9b97ed6d)
-    (property "Reference" "R20" (at 147.32 146.05 90)
+    (property "Reference" "R5" (at 147.32 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "240R" (at 147.32 143.51 90)
@@ -3045,8 +3045,8 @@
     (pin "2" (uuid 344c96fe-bf6f-45d4-942c-5d51ee35a793))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R20") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -3055,7 +3055,7 @@
   (symbol (lib_id "Device:R_Small") (at 144.78 30.48 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 28ff42b0-947b-4492-919b-2443a1fff293)
-    (property "Reference" "R40" (at 144.78 26.7335 90)
+    (property "Reference" "R1" (at 144.78 26.7335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 144.78 28.6545 90)
@@ -3071,8 +3071,8 @@
     (pin "2" (uuid f378c855-e6d5-457a-8fbe-c18cfd13f159))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R40") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -3081,7 +3081,7 @@
   (symbol (lib_id "Device:R_Small") (at 189.23 68.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2917a929-f91e-44a2-8f73-609368a8990c)
-    (property "Reference" "R49" (at 189.23 64.8335 90)
+    (property "Reference" "R12" (at 189.23 64.8335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 189.23 66.7545 90)
@@ -3097,8 +3097,8 @@
     (pin "2" (uuid 63225023-b0a1-4760-9bc7-fd57446b6c6e))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R49") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -3107,7 +3107,7 @@
   (symbol (lib_id "Device:C_Small") (at 254 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2e07b8eb-4bb4-4a53-83d1-216abd91ed2c)
-    (property "Reference" "C61" (at 256.3241 121.2826 0)
+    (property "Reference" "C8" (at 256.3241 121.2826 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 256.3241 123.2036 0)
@@ -3123,8 +3123,8 @@
     (pin "2" (uuid 00fcf2fd-f257-48b8-b0ab-2489b6858c70))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C61") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -3133,7 +3133,7 @@
   (symbol (lib_id "Device:R_Small") (at 189.23 62.23 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3a2d2b50-12a0-4551-a18b-7603bd10cb58)
-    (property "Reference" "R48" (at 189.23 58.4835 90)
+    (property "Reference" "R11" (at 189.23 58.4835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 189.23 60.4045 90)
@@ -3149,8 +3149,8 @@
     (pin "2" (uuid e088cb16-c432-4afb-afb8-6a589c6e35c1))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R48") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -3159,7 +3159,7 @@
   (symbol (lib_id "Device:R_Small") (at 189.23 36.83 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3b09bc56-1384-4175-80e7-df31e71a873e)
-    (property "Reference" "R44" (at 189.23 33.0835 90)
+    (property "Reference" "R7" (at 189.23 33.0835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 189.23 35.0045 90)
@@ -3175,8 +3175,8 @@
     (pin "2" (uuid 5b44d960-af43-4c71-8c83-baa77ecd22ca))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R44") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -3185,7 +3185,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 68.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 41c8cb91-4750-4dc9-b6a3-f17d0d7376f0)
-    (property "Reference" "R31" (at 232.41 64.8335 90)
+    (property "Reference" "R21" (at 232.41 64.8335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 66.7545 90)
@@ -3201,8 +3201,8 @@
     (pin "2" (uuid 8ca502ea-1319-44dd-9820-dd75227f224c))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R31") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R21") (unit 1)
         )
       )
     )
@@ -3211,7 +3211,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 81.28 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 437a97dd-287b-4484-9335-8737d8c20fa1)
-    (property "Reference" "R33" (at 232.41 77.5335 90)
+    (property "Reference" "R23" (at 232.41 77.5335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 79.4545 90)
@@ -3227,8 +3227,8 @@
     (pin "2" (uuid 98741518-b472-4e50-9867-8aa80dc59573))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R33") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R23") (unit 1)
         )
       )
     )
@@ -3237,7 +3237,7 @@
   (symbol (lib_id "Device:R_Small") (at 189.23 30.48 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 544d68c5-bbd5-458c-8754-21469b8e8be0)
-    (property "Reference" "R43" (at 189.23 26.7335 90)
+    (property "Reference" "R6" (at 189.23 26.7335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 189.23 28.6545 90)
@@ -3253,8 +3253,8 @@
     (pin "2" (uuid 41b596e5-3470-4990-9443-e5f446dbeb83))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R43") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -3263,7 +3263,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 106.68 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5ab5eedc-9f4e-42d2-897c-c46512ce5db9)
-    (property "Reference" "R37" (at 232.41 102.9335 90)
+    (property "Reference" "R27" (at 232.41 102.9335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 104.8545 90)
@@ -3279,8 +3279,8 @@
     (pin "2" (uuid 009ba666-1c62-47df-a2fe-580c9bd09222))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R37") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -3289,7 +3289,7 @@
   (symbol (lib_id "power:GND") (at 274.32 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5ba5aeb3-57fe-487d-955f-fb7dc7602c79)
-    (property "Reference" "#PWR057" (at 274.32 44.45 0)
+    (property "Reference" "#PWR07" (at 274.32 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 274.32 42.2355 0)
@@ -3304,8 +3304,8 @@
     (pin "1" (uuid 3b585012-887b-4d06-a4c0-f022d3ff3e25))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "#PWR057") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "#PWR07") (unit 1)
         )
       )
     )
@@ -3314,7 +3314,7 @@
   (symbol (lib_id "power:GND") (at 142.24 148.59 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5c658b83-c8a3-4b09-b8f9-19a396083373)
-    (property "Reference" "#PWR052" (at 142.24 154.94 0)
+    (property "Reference" "#PWR05" (at 142.24 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 142.24 152.7255 0)
@@ -3329,8 +3329,8 @@
     (pin "1" (uuid 242bef5a-985d-4875-ad94-4e1cc68d13df))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "#PWR052") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "#PWR05") (unit 1)
         )
       )
     )
@@ -3339,7 +3339,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 30.48 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e74fe91-8194-4ac3-9951-3334a6ffa1c7)
-    (property "Reference" "R25" (at 232.41 26.7335 90)
+    (property "Reference" "R15" (at 232.41 26.7335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 28.6545 90)
@@ -3355,8 +3355,8 @@
     (pin "2" (uuid f9c2b495-2dcb-4424-868b-f6f5ca3edcc6))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R25") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R15") (unit 1)
         )
       )
     )
@@ -3365,7 +3365,7 @@
   (symbol (lib_id "Device:C_Small") (at 198.12 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 624714ad-5ace-43b5-80ab-6ee5227b766c)
-    (property "Reference" "C64" (at 200.4441 64.1326 0)
+    (property "Reference" "C1" (at 200.4441 64.1326 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 200.4441 66.0536 0)
@@ -3381,8 +3381,8 @@
     (pin "2" (uuid a4a5a5e5-d4d3-415f-aba5-74afd8ad2733))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C64") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -3391,7 +3391,7 @@
   (symbol (lib_id "Device:C_Small") (at 208.28 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6a3542f5-a2ac-4efc-8cf3-63c4e7bba24c)
-    (property "Reference" "C65" (at 210.6041 64.1326 0)
+    (property "Reference" "C2" (at 210.6041 64.1326 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 210.6041 66.0536 0)
@@ -3407,8 +3407,8 @@
     (pin "2" (uuid 54dbf1e5-381b-4272-88bf-e5f0079a1e54))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C65") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -3417,7 +3417,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 119.38 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6c55d34b-4c6d-4b10-8816-20b59dc4eeed)
-    (property "Reference" "R39" (at 232.41 115.6335 90)
+    (property "Reference" "R29" (at 232.41 115.6335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 117.5545 90)
@@ -3433,8 +3433,8 @@
     (pin "2" (uuid 4eeefeaa-9d1b-4773-94f4-19adfcaaf7ab))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R39") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R29") (unit 1)
         )
       )
     )
@@ -3443,7 +3443,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 55.88 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 72b48885-fefe-4596-861c-dc270b0ed527)
-    (property "Reference" "R29" (at 232.41 52.1335 90)
+    (property "Reference" "R19" (at 232.41 52.1335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 54.0545 90)
@@ -3459,8 +3459,8 @@
     (pin "2" (uuid 533c7422-5bb4-4966-b2b9-d7255d886018))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R29") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R19") (unit 1)
         )
       )
     )
@@ -3469,7 +3469,7 @@
   (symbol (lib_id "ARMband:MT41K256M16TW-107_P") (at 60.96 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 78365fb4-e16b-4197-95c9-0539ef46aee1)
-    (property "Reference" "IC2" (at 78.74 54.61 0)
+    (property "Reference" "IC1" (at 78.74 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MT41K256M16TW-107_P" (at 78.74 57.15 0)
@@ -3597,8 +3597,8 @@
     (pin "T9" (uuid 0a85ce55-e602-477a-b54f-095f1b12f219))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "IC2") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "IC1") (unit 1)
         )
       )
     )
@@ -3607,7 +3607,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 113.03 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7b4ff0a8-5970-473f-86e4-7419daaa117a)
-    (property "Reference" "R38" (at 232.41 109.2835 90)
+    (property "Reference" "R28" (at 232.41 109.2835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 111.2045 90)
@@ -3623,8 +3623,8 @@
     (pin "2" (uuid d55d2c03-bbb8-436f-bcd1-8833e2c96d98))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R38") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -3633,7 +3633,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 100.33 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 836dd425-fc64-41dc-b179-51618fba2fae)
-    (property "Reference" "R36" (at 232.41 96.5835 90)
+    (property "Reference" "R26" (at 232.41 96.5835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 98.5045 90)
@@ -3649,8 +3649,8 @@
     (pin "2" (uuid 42116356-e5ce-4ae2-8d1d-c5a77096300e))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R36") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R26") (unit 1)
         )
       )
     )
@@ -3659,7 +3659,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 36.83 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8a09e6ad-50a5-44fb-8224-3dda699bc3ab)
-    (property "Reference" "R26" (at 232.41 33.0835 90)
+    (property "Reference" "R16" (at 232.41 33.0835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 35.0045 90)
@@ -3675,8 +3675,8 @@
     (pin "2" (uuid a86e0913-7e6d-4538-b91f-d7811509ee7f))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R26") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R16") (unit 1)
         )
       )
     )
@@ -3685,7 +3685,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8ba557bd-d229-4fc3-8fef-c2c9f43f0bfe)
-    (property "Reference" "R34" (at 232.41 83.8835 90)
+    (property "Reference" "R24" (at 232.41 83.8835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 85.8045 90)
@@ -3701,8 +3701,8 @@
     (pin "2" (uuid e6d76f38-0ffb-4a49-b2e3-659478186eff))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R34") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R24") (unit 1)
         )
       )
     )
@@ -3711,7 +3711,7 @@
   (symbol (lib_id "power:GND") (at 140.97 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 92f6c878-d019-4802-bac2-ad7381e696ea)
-    (property "Reference" "#PWR060" (at 140.97 38.1 0)
+    (property "Reference" "#PWR02" (at 140.97 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 140.97 35.8855 0)
@@ -3726,8 +3726,8 @@
     (pin "1" (uuid 310de058-81d4-4978-98df-0dcc9badbb00))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "#PWR060") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -3736,7 +3736,7 @@
   (symbol (lib_id "Device:R_Small") (at 148.59 138.43 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 93704f77-97c8-4724-a017-f1d4c2267561)
-    (property "Reference" "R52" (at 147.32 137.16 90)
+    (property "Reference" "R4" (at 147.32 137.16 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "240R" (at 147.32 134.62 90)
@@ -3752,8 +3752,8 @@
     (pin "2" (uuid a2a51d25-a13c-4a80-b063-d7885deaf36f))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R52") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -3762,7 +3762,7 @@
   (symbol (lib_id "Device:R_Small") (at 189.23 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 966a8f1d-5d93-4ec3-a80e-10428754fc8c)
-    (property "Reference" "R45" (at 189.23 39.4335 90)
+    (property "Reference" "R8" (at 189.23 39.4335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 189.23 41.3545 90)
@@ -3778,8 +3778,8 @@
     (pin "2" (uuid 840b4d16-d37e-4702-9026-99188f3ee11b))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R45") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -3788,7 +3788,7 @@
   (symbol (lib_id "Device:C_Small") (at 254 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 981f977d-3655-4365-be95-e47ecaf83da1)
-    (property "Reference" "C53" (at 256.3241 32.3826 0)
+    (property "Reference" "C6" (at 256.3241 32.3826 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 256.3241 34.3036 0)
@@ -3804,8 +3804,8 @@
     (pin "2" (uuid 61f71570-9788-4e67-a3bd-e04215b8f604))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C53") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -3814,7 +3814,7 @@
   (symbol (lib_id "Device:C_Small") (at 243.84 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 985d46da-8ef5-47a7-8e0d-e094a245b81e)
-    (property "Reference" "C60" (at 246.1641 121.2826 0)
+    (property "Reference" "C5" (at 246.1641 121.2826 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 246.1641 123.2036 0)
@@ -3830,8 +3830,8 @@
     (pin "2" (uuid a95dd22a-64e2-4af7-93c5-50aa4fa9b7c5))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C60") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -3840,7 +3840,7 @@
   (symbol (lib_id "Device:C_Small") (at 264.16 77.47 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9af666fa-88ca-4b10-9da6-625b5125f8b8)
-    (property "Reference" "C58" (at 266.4841 76.8326 0)
+    (property "Reference" "C10" (at 266.4841 76.8326 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 266.4841 78.7536 0)
@@ -3856,8 +3856,8 @@
     (pin "2" (uuid 7459b2f1-6f3b-4c05-99bc-ae9f9498f949))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C58") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C10") (unit 1)
         )
       )
     )
@@ -3866,7 +3866,7 @@
   (symbol (lib_id "Device:C_Small") (at 274.32 77.47 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a2a31496-0666-455b-94b0-dcd893c2fafb)
-    (property "Reference" "C59" (at 276.6441 76.8326 0)
+    (property "Reference" "C13" (at 276.6441 76.8326 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 276.6441 78.7536 0)
@@ -3882,8 +3882,8 @@
     (pin "2" (uuid ea37b26a-cdb6-4992-ad61-01fe8019c3cc))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C59") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C13") (unit 1)
         )
       )
     )
@@ -3892,7 +3892,7 @@
   (symbol (lib_id "Device:C_Small") (at 254 77.47 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid af14ad7a-6338-4add-b00f-6b24bbf5e1a0)
-    (property "Reference" "C57" (at 256.3241 76.8326 0)
+    (property "Reference" "C7" (at 256.3241 76.8326 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 256.3241 78.7536 0)
@@ -3908,8 +3908,8 @@
     (pin "2" (uuid c353748d-e73b-4447-832b-3918d0ee89d6))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C57") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -3918,7 +3918,7 @@
   (symbol (lib_id "Device:R_Small") (at 189.23 74.93 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid afdf9d60-8a6b-42f2-a586-a6b59d35fc5b)
-    (property "Reference" "R50" (at 189.23 71.1835 90)
+    (property "Reference" "R13" (at 189.23 71.1835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 189.23 73.1045 90)
@@ -3934,8 +3934,8 @@
     (pin "2" (uuid c772e284-cd3f-45b1-b231-cb040b026de8))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R50") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R13") (unit 1)
         )
       )
     )
@@ -3944,7 +3944,7 @@
   (symbol (lib_id "Device:C_Small") (at 274.32 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b2088b0a-ec8a-4473-96f8-eb60b5c8983d)
-    (property "Reference" "C55" (at 276.6441 32.3826 0)
+    (property "Reference" "C12" (at 276.6441 32.3826 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 276.6441 34.3036 0)
@@ -3960,8 +3960,8 @@
     (pin "2" (uuid 8ed1194b-148b-4d17-b70d-2fe04d70dcf0))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C55") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C12") (unit 1)
         )
       )
     )
@@ -3970,7 +3970,7 @@
   (symbol (lib_id "power:GND") (at 140.97 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b9ea0e43-d519-4265-93a9-e522ea3ae744)
-    (property "Reference" "#PWR061" (at 140.97 49.53 0)
+    (property "Reference" "#PWR03" (at 140.97 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 140.97 47.3155 0)
@@ -3985,8 +3985,8 @@
     (pin "1" (uuid c08003e6-274b-4d34-bca1-e16cbd9345db))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "#PWR061") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -3995,7 +3995,7 @@
   (symbol (lib_id "power:GND") (at 142.24 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c087d1d3-7bb4-41df-b3ae-dc2394eb13ba)
-    (property "Reference" "#PWR063" (at 142.24 146.05 0)
+    (property "Reference" "#PWR04" (at 142.24 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 142.24 143.8355 0)
@@ -4010,8 +4010,8 @@
     (pin "1" (uuid d3902405-c23c-4cda-aadd-b99a276a49ba))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "#PWR063") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "#PWR04") (unit 1)
         )
       )
     )
@@ -4020,7 +4020,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 49.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c192689d-76a4-4d47-9def-cbe043f7ce24)
-    (property "Reference" "R28" (at 232.41 45.7835 90)
+    (property "Reference" "R18" (at 232.41 45.7835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 47.7045 90)
@@ -4036,8 +4036,8 @@
     (pin "2" (uuid 13f18eca-239e-43b7-9c6a-8393fc16c54d))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R28") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R18") (unit 1)
         )
       )
     )
@@ -4046,7 +4046,7 @@
   (symbol (lib_id "power:GND") (at 274.32 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c2993019-4b5f-47e9-83af-060f41fa9fa9)
-    (property "Reference" "#PWR058" (at 274.32 88.9 0)
+    (property "Reference" "#PWR08" (at 274.32 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 274.32 86.6855 0)
@@ -4061,8 +4061,8 @@
     (pin "1" (uuid e8fd1517-1e81-42ed-be94-c73f4d88a762))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "#PWR058") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "#PWR08") (unit 1)
         )
       )
     )
@@ -4071,7 +4071,7 @@
   (symbol (lib_id "Device:R_Small") (at 189.23 55.88 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c75762cf-4483-492e-9b40-74bb4e4e1d72)
-    (property "Reference" "R47" (at 189.23 52.1335 90)
+    (property "Reference" "R10" (at 189.23 52.1335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 189.23 54.0545 90)
@@ -4087,8 +4087,8 @@
     (pin "2" (uuid f4e2bb51-2d76-4fd1-9a33-2c6ee902d20a))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R47") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R10") (unit 1)
         )
       )
     )
@@ -4097,7 +4097,7 @@
   (symbol (lib_id "Device:C_Small") (at 264.16 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d1016835-e734-462b-abf1-6a356d7dacfb)
-    (property "Reference" "C62" (at 266.4841 121.2826 0)
+    (property "Reference" "C11" (at 266.4841 121.2826 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 266.4841 123.2036 0)
@@ -4113,8 +4113,8 @@
     (pin "2" (uuid 4ff991c8-2b5e-4310-882a-542f0a8bbf75))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C62") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -4123,7 +4123,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 62.23 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d121c270-df9b-4f8d-9cc0-e9da19073a31)
-    (property "Reference" "R30" (at 232.41 58.4835 90)
+    (property "Reference" "R20" (at 232.41 58.4835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 60.4045 90)
@@ -4139,8 +4139,8 @@
     (pin "2" (uuid 7e403e86-c6e5-4a88-9c76-1e5f46c12bae))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R30") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R20") (unit 1)
         )
       )
     )
@@ -4149,7 +4149,7 @@
   (symbol (lib_id "power:GND") (at 274.32 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d73b2342-43ef-43ab-9808-94ec4d1d989a)
-    (property "Reference" "#PWR059" (at 274.32 133.35 0)
+    (property "Reference" "#PWR09" (at 274.32 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 274.32 131.1355 0)
@@ -4164,8 +4164,8 @@
     (pin "1" (uuid 93285636-6179-4eca-83df-44b6341df9c9))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "#PWR059") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -4174,7 +4174,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dd115b08-fe01-42a7-84fa-18a4a1b030a2)
-    (property "Reference" "R35" (at 232.41 90.2335 90)
+    (property "Reference" "R25" (at 232.41 90.2335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 92.1545 90)
@@ -4190,8 +4190,8 @@
     (pin "2" (uuid 3134de6d-4a1b-4f65-a571-f0bf2ba57aa3))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R35") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R25") (unit 1)
         )
       )
     )
@@ -4200,7 +4200,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 74.93 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dfe8c8bc-8996-46a7-aecb-c2d6e9a4f2c5)
-    (property "Reference" "R32" (at 232.41 71.1835 90)
+    (property "Reference" "R22" (at 232.41 71.1835 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 73.1045 90)
@@ -4216,8 +4216,8 @@
     (pin "2" (uuid b59606b2-8b0f-404d-99b5-7a281a203aff))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R32") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R22") (unit 1)
         )
       )
     )
@@ -4226,7 +4226,7 @@
   (symbol (lib_id "Device:C_Small") (at 243.84 77.47 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e6418561-9df1-47d9-84e2-b79f153993cf)
-    (property "Reference" "C56" (at 246.1641 76.8326 0)
+    (property "Reference" "C4" (at 246.1641 76.8326 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 246.1641 78.7536 0)
@@ -4242,8 +4242,8 @@
     (pin "2" (uuid a5a0a000-4de2-423c-8ab5-5aef5ca722db))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "C56") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "C4") (unit 1)
         )
       )
     )
@@ -4252,7 +4252,7 @@
   (symbol (lib_id "Device:R_Small") (at 189.23 81.28 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ed893705-b58e-49dc-8b16-8497f3a31dd4)
-    (property "Reference" "R51" (at 189.23 77.5335 90)
+    (property "Reference" "R14" (at 189.23 77.5335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 189.23 79.4545 90)
@@ -4268,8 +4268,8 @@
     (pin "2" (uuid b3af7570-a9b2-41dd-9bbd-39918217786f))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R51") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R14") (unit 1)
         )
       )
     )
@@ -4278,7 +4278,7 @@
   (symbol (lib_id "Device:R_Small") (at 232.41 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f30cf618-db67-4e55-9708-ce1279d2ab99)
-    (property "Reference" "R27" (at 232.41 39.4335 90)
+    (property "Reference" "R17" (at 232.41 39.4335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "56R" (at 232.41 41.3545 90)
@@ -4294,8 +4294,8 @@
     (pin "2" (uuid 692c21ee-528a-40f3-b582-589e0f383abd))
     (instances
       (project "armband"
-        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/f5831ad7-86f4-4338-9d6c-a9943f11383a"
-          (reference "R27") (unit 1)
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/ef131523-eb33-4e3e-9fee-5f05c80a50eb"
+          (reference "R17") (unit 1)
         )
       )
     )
