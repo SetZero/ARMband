@@ -1302,6 +1302,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 269726a9-6eb8-4154-969c-c426d4921714)
   )
+  (text "Lipo charging ICs with power path management\n- single cell:\n	+ MCP73871\n	+ LTC4120 (wireless charging functionality)\n	+ MAX1555 (dual input)\n	+ NCP1854 (small package)\n- multi cell:\n	+ BQ25792 (up to 4 cells, dual input, 4x4mm)\n	+ MP2759 (up to 6 cells, 3x3mm)\n"
+    (at 218.44 77.47 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5f97d071-6d7b-4f0a-8d8c-c4c70e8d8238)
+  )
   (text "VBUSA not connected in datasheet?" (at 109.22 74.93 90)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 68388816-cb09-42a5-9341-68efc171270c)
