@@ -203,7 +203,7 @@
           (reference "#PWR065") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/4f745a0b-8724-4289-9dd5-c25d5562a5b2/5f118be0-d1f5-46b1-b05a-c3ccf67cbeb8"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
