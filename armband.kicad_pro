@@ -124,7 +124,7 @@
         "min_text_thickness": 0.153,
         "min_through_hole_diameter": 0.15,
         "min_track_width": 0.09,
-        "min_via_annular_width": 0.0,
+        "min_via_annular_width": 0.5,
         "min_via_diameter": 0.25,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
@@ -646,20 +646,8 @@
       ""
     ],
     [
-      "5f118be0-d1f5-46b1-b05a-c3ccf67cbeb8",
-      "flash"
-    ],
-    [
-      "ef131523-eb33-4e3e-9fee-5f05c80a50eb",
-      "RAM"
-    ],
-    [
-      "7f18354f-bf3c-44d4-ad85-4b5de2cadafa",
-      "power"
-    ],
-    [
-      "4f745a0b-8724-4289-9dd5-c25d5562a5b2",
-      "old"
+      "0a0ae5b4-f4a7-4c33-a046-43f968bc1e4a",
+      "debug"
     ],
     [
       "ae5dc462-dca9-40e4-ba02-6b87a86a4904",
