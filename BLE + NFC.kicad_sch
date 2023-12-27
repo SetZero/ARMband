@@ -434,7 +434,7 @@
   (symbol (lib_id "power:GND") (at 143.51 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 35319dc3-10a3-45a1-9f8d-fcb356764494)
-    (property "Reference" "#PWR025" (at 143.51 153.67 0)
+    (property "Reference" "#PWR042" (at 143.51 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 143.51 152.4 0)
@@ -450,7 +450,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/3720f3b4-03b0-4b33-b5d9-366640292599"
-          (reference "#PWR025") (unit 1)
+          (reference "#PWR042") (unit 1)
         )
       )
     )
