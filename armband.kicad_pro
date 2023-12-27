@@ -403,12 +403,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "ARMband",
-      "LibraryLoader"
+      "ARMband"
     ],
     "pinned_symbol_libs": [
-      "ARMband",
-      "LibraryLoader"
+      "ARMband"
     ]
   },
   "meta": {

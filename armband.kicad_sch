@@ -1282,6 +1282,14 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6a17efe4-13c1-4e93-8311-9e811b23ffea)
   )
+  (text "Default to \ninternal Pull-Up" (at 80.01 36.83 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8ffd7d11-ba09-4009-93cd-b0fad33daccf)
+  )
+  (text "H=Flash boot\nL=USB/UART" (at 44.45 39.37 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d83e772e-c55b-4b7d-9525-c65debda15f2)
+  )
 
   (global_label "SD_D2" (shape input) (at 236.22 195.58 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
@@ -1730,6 +1738,31 @@
     )
   )
 
+  (symbol (lib_id "power:+3V3") (at 53.34 96.52 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 41f23527-5367-4c97-86a7-36fddb0a50b3)
+    (property "Reference" "#PWR030" (at 53.34 100.33 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3V3" (at 53.34 91.44 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 53.34 96.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 53.34 96.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9008b70a-2607-4a92-bb1f-eb987332c3e2))
+    (instances
+      (project "armband"
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14"
+          (reference "#PWR030") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_name "GND_1") (lib_id "power:GND") (at 43.18 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4beaa51d-a9b2-4665-94ad-c85af0f6906d)
@@ -1750,6 +1783,31 @@
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14"
           (reference "#PWR011") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+3V3") (at 45.72 96.52 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 589302b1-8710-4748-8c60-7ce3faedcfd9)
+    (property "Reference" "#PWR032" (at 45.72 100.33 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3V3" (at 45.72 91.44 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 45.72 96.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 45.72 96.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5d9c8f36-96d1-40b4-b482-6b12c5f29a34))
+    (instances
+      (project "armband"
+        (path "/017c50c6-333c-4d31-ad5a-278994a09b14"
+          (reference "#PWR032") (unit 1)
         )
       )
     )
@@ -1838,7 +1896,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 78.74 40.64 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 7221a083-5992-4b01-ab2d-1a9a128732fe)
     (property "Reference" "R4" (at 81.28 40.005 0)
       (effects (font (size 1.27 1.27)) (justify left))
