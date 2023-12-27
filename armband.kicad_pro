@@ -652,12 +652,24 @@
       "debug"
     ],
     [
-      "ae5dc462-dca9-40e4-ba02-6b87a86a4904",
-      "supply"
+      "ea4ffdec-697e-4619-8bda-0f4c7cf70f55",
+      "display"
     ],
     [
-      "335f8207-a5d7-40b6-9f15-b2bc594f5ad6",
-      "peripherals"
+      "2935dd4b-68c9-428b-bdab-ba656d5b03fa",
+      "6dof"
+    ],
+    [
+      "ae5dc462-dca9-40e4-ba02-6b87a86a4904",
+      "supply + battery"
+    ],
+    [
+      "db6ac415-a2f9-4935-934d-f0e91f8b44d3",
+      "biometric sensor"
+    ],
+    [
+      "3720f3b4-03b0-4b33-b5d9-366640292599",
+      "BLE + NFC"
     ]
   ],
   "text_variables": {}
