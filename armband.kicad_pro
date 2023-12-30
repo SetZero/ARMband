@@ -668,6 +668,10 @@
     [
       "3720f3b4-03b0-4b33-b5d9-366640292599",
       "BLE + NFC"
+    ],
+    [
+      "1029a9a3-b5d0-4240-805b-4fc2e9ca6858",
+      "connectors"
     ]
   ],
   "text_variables": {}
