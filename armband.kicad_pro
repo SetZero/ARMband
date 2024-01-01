@@ -659,7 +659,7 @@
     ],
     [
       "ae5dc462-dca9-40e4-ba02-6b87a86a4904",
-      "supply + battery"
+      "supply"
     ],
     [
       "db6ac415-a2f9-4935-934d-f0e91f8b44d3",
@@ -668,10 +668,6 @@
     [
       "3720f3b4-03b0-4b33-b5d9-366640292599",
       "BLE + NFC"
-    ],
-    [
-      "1029a9a3-b5d0-4240-805b-4fc2e9ca6858",
-      "usb"
     ]
   ],
   "text_variables": {}
