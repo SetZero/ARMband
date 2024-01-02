@@ -1372,6 +1372,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 95848e57-e83d-4370-8a3a-8eb05504cbe1)
   )
+  (text "I²C Device List\n\n| Name          | Addr | Alt  |\n|---------------|------|------|\n|Battery Charge | 0x3F |      |	\n|Gauge          | 0x55 |      |	\n|6dof           | 0x68 | 0x69 |\n|Heart Rate     | 0xAE |      |\n|Touch          | 0x24 |      |\n|BLE + NFC      | prog.       |\n"
+    (at 304.8 38.1 0)
+    (effects (font (face "Cascadia Mono") (size 1.27 1.27)) (justify left bottom))
+    (uuid cc4fb481-d104-431e-bf94-443c3706eaa8)
+  )
   (text "H=Flash boot\nL=USB/UART" (at 45.72 90.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d83e772e-c55b-4b7d-9525-c65debda15f2)
