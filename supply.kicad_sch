@@ -2869,8 +2869,8 @@
     (property "Datasheet" "~" (at 266.7 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid b0d1d1b0-98c0-49c9-9907-b3bba60c51ed))
     (pin "1" (uuid d8f99a3c-b57e-4330-87f9-73bd2f088991))
+    (pin "2" (uuid b0d1d1b0-98c0-49c9-9907-b3bba60c51ed))
     (pin "3" (uuid 0c4baeea-ad57-4b5e-aa0e-b6c03ea1aa34))
     (instances
       (project "armband"
