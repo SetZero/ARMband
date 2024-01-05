@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [
@@ -63,6 +63,7 @@
       "unconnected-(IC1-ENET_TXD2-Pad33)",
       "unconnected-(IC1-ENET_TXD1-Pad34)",
       "unconnected-(IC1-ENET_TXD0-Pad35)",
+      "SD_CD",
       "SD_D1",
       "SD_D0",
       "SD_D3",
@@ -135,8 +136,6 @@
       "Net-(IC5-IO1)",
       "Net-(IC5-IO2)",
       "Net-(IC5-N.C._1)",
-      "unconnected-(IC5-IO5-Pad7)",
-      "unconnected-(IC5-IO6-Pad8)",
       "unconnected-(IC6-XC2-PadA1)",
       "unconnected-(IC6-DEC2-PadA2)",
       "unconnected-(IC6-P0.28_{slash}AIN4-PadA3)",
@@ -191,11 +190,13 @@
       "Net-(J3-NC-Pad15)",
       "NFC_ANT2",
       "NFC_ANT1",
-      "unconnected-(J4-SBU1-PadA8)",
-      "unconnected-(J4-SBU2-PadB8)",
       "unconnected-(J4-GND_4-PadB12)",
       "Net-(U1-NC-Pad1)",
-      "GND"
+      "Net-(IC5-IO5)",
+      "Net-(IC5-IO6)",
+      "GND",
+      "unconnected-(U2-NC-Pad3)",
+      "unconnected-(U2-NC-Pad6)"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,

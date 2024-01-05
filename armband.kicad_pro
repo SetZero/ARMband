@@ -668,6 +668,10 @@
     [
       "3720f3b4-03b0-4b33-b5d9-366640292599",
       "BLE + NFC"
+    ],
+    [
+      "0f96e19b-d41b-4945-bc3e-e069fd03603c",
+      "light sensor"
     ]
   ],
   "text_variables": {}
