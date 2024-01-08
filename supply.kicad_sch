@@ -2319,7 +2319,7 @@
   (symbol (lib_id "Device:R_Small") (at 180.34 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp yes)
     (uuid 0242cde5-09df-4bc6-bf7b-7f02a25e44d8)
-    (property "Reference" "R12" (at 177.8 177.165 0)
+    (property "Reference" "R14" (at 177.8 177.165 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "R_Small" (at 177.8 179.705 0)
@@ -2336,7 +2336,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "R12") (unit 1)
+          (reference "R14") (unit 1)
         )
       )
     )
@@ -2360,17 +2360,8 @@
     (property "Height" "0.8" (at 224.79 430.48 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (property "Mouser Part Number" "595-TPS259571DSGR" (at 224.79 530.48 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS259571DSGR?qs=W0yvOO0ixfH3ETsy08x5CQ%3D%3D" (at 224.79 630.48 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Name" "Texas Instruments" (at 224.79 730.48 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Part_Number" "TPS259571DSGR" (at 224.79 830.48 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    (property "MFN" "595-TPS259571DSGR" (at 193.04 35.56 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid aaf46995-1a86-45d4-87ca-a897af4c3e35))
     (pin "2" (uuid b0b8f6ea-03b9-4029-ae88-f4171fb033b1))
@@ -2393,7 +2384,7 @@
   (symbol (lib_id "ARMband:TPS62293DRVR") (at 332.74 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0c4bbb06-8ac7-4c90-bed3-5cf7c45dd141)
-    (property "Reference" "IC8" (at 347.98 170.18 0)
+    (property "Reference" "IC7" (at 347.98 170.18 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TPS62293DRVR" (at 347.98 172.72 0)
@@ -2408,17 +2399,8 @@
     (property "Height" "0.8" (at 359.41 571.45 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (property "Mouser Part Number" "595-TPS62293DRVR" (at 359.41 671.45 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62293DRVR?qs=wkx8pu8tL7L9AhZ3o36utg%3D%3D" (at 359.41 771.45 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Name" "Texas Instruments" (at 359.41 871.45 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Part_Number" "TPS62293DRVR" (at 359.41 971.45 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    (property "MFN" "595-TPS62293DRVR" (at 332.74 176.53 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid effecd52-1a33-4dd0-965f-efc12e5f7cc5))
     (pin "2" (uuid 24df3214-efe7-499e-8f17-4eb09a565861))
@@ -2430,7 +2412,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "IC8") (unit 1)
+          (reference "IC7") (unit 1)
         )
       )
     )
@@ -2439,7 +2421,7 @@
   (symbol (lib_id "Device:R_Small") (at 127 156.21 0) (mirror y) (unit 1)
     (in_bom no) (on_board yes) (dnp yes)
     (uuid 13c865b3-60f5-4a11-b312-78c37ff09596)
-    (property "Reference" "R10" (at 129.54 155.575 0)
+    (property "Reference" "R12" (at 129.54 155.575 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "5k1 50mW" (at 129.54 158.115 0)
@@ -2459,7 +2441,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "R10") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -2468,7 +2450,7 @@
   (symbol (lib_id "power:+3V3") (at 382.27 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 15dbc3a0-e4e2-41df-895e-97b291e03ca6)
-    (property "Reference" "#PWR023" (at 382.27 140.97 0)
+    (property "Reference" "#PWR034" (at 382.27 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 382.27 133.35 0)
@@ -2484,7 +2466,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR023") (unit 1)
+          (reference "#PWR034") (unit 1)
         )
       )
     )
@@ -2512,7 +2494,7 @@
           (reference "#PWR014") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR055") (unit 1)
         )
       )
     )
@@ -2544,7 +2526,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C26") (unit 1)
+          (reference "C17") (unit 1)
         )
       )
     )
@@ -2553,7 +2535,7 @@
   (symbol (lib_id "power:+1V8") (at 382.27 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 297f6292-031c-4d7e-b2b5-da33a5e679b3)
-    (property "Reference" "#PWR024" (at 382.27 177.8 0)
+    (property "Reference" "#PWR044" (at 382.27 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V8" (at 382.27 170.18 0)
@@ -2569,7 +2551,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR024") (unit 1)
+          (reference "#PWR044") (unit 1)
         )
       )
     )
@@ -2597,7 +2579,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR050") (unit 1)
+          (reference "#PWR028") (unit 1)
         )
       )
     )
@@ -2625,7 +2607,7 @@
           (reference "#PWR021") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR053") (unit 1)
         )
       )
     )
@@ -2657,7 +2639,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C22") (unit 1)
+          (reference "C20") (unit 1)
         )
       )
     )
@@ -2685,7 +2667,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR060") (unit 1)
+          (reference "#PWR033") (unit 1)
         )
       )
     )
@@ -2717,7 +2699,7 @@
           (reference "R2") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "R4") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
     )
@@ -2745,7 +2727,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR034") (unit 1)
+          (reference "#PWR031") (unit 1)
         )
       )
     )
@@ -2754,7 +2736,7 @@
   (symbol (lib_id "Device:C_Small") (at 190.5 62.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 49106666-ed3f-481c-b408-d2c03c6db1db)
-    (property "Reference" "C4" (at 193.04 61.6013 0)
+    (property "Reference" "C10" (at 193.04 61.6013 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "3n3 50V" (at 193.04 64.1413 0)
@@ -2774,7 +2756,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C4") (unit 1)
+          (reference "C10") (unit 1)
         )
       )
     )
@@ -2802,7 +2784,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR068") (unit 1)
+          (reference "#PWR045") (unit 1)
         )
       )
     )
@@ -2830,7 +2812,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR064") (unit 1)
+          (reference "#PWR052") (unit 1)
         )
       )
     )
@@ -2839,7 +2821,7 @@
   (symbol (lib_id "ARMband:TPS62291DRVR") (at 332.74 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 52971953-5457-4659-ae52-cb6477574061)
-    (property "Reference" "IC7" (at 347.98 133.35 0)
+    (property "Reference" "IC6" (at 347.98 133.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TPS62291DRVR" (at 347.98 135.89 0)
@@ -2854,17 +2836,8 @@
     (property "Height" "0.8" (at 359.41 534.62 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (property "Mouser Part Number" "595-TPS62291DRVR" (at 359.41 634.62 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62291DRVR?qs=WxL8HmPi5r5oemxPY8jLwQ%3D%3D" (at 359.41 734.62 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Name" "Texas Instruments" (at 359.41 834.62 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Part_Number" "TPS62291DRVR" (at 359.41 934.62 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    (property "MFN" "595-TPS62291DRVR" (at 332.74 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 083d5bab-d3e2-40b3-8f4b-fd5d1f6beff6))
     (pin "2" (uuid c59a44bb-bd5c-4380-a8c1-9f8d4b34e512))
@@ -2876,7 +2849,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "IC7") (unit 1)
+          (reference "IC6") (unit 1)
         )
       )
     )
@@ -2937,7 +2910,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C24") (unit 1)
+          (reference "C19") (unit 1)
         )
       )
     )
@@ -2965,7 +2938,7 @@
           (reference "#PWR014") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR033") (unit 1)
+          (reference "#PWR054") (unit 1)
         )
       )
     )
@@ -2993,7 +2966,7 @@
           (reference "#PWR09") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR056") (unit 1)
+          (reference "#PWR038") (unit 1)
         )
       )
     )
@@ -3021,7 +2994,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR047") (unit 1)
+          (reference "#PWR042") (unit 1)
         )
       )
     )
@@ -3030,7 +3003,7 @@
   (symbol (lib_id "Device:R_Small") (at 121.92 156.21 0) (unit 1)
     (in_bom no) (on_board yes) (dnp yes)
     (uuid 64fd263a-43b8-4c09-8c58-7d9ccb632862)
-    (property "Reference" "R7" (at 119.38 155.575 0)
+    (property "Reference" "R11" (at 119.38 155.575 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "5k1 50mW" (at 119.38 158.115 0)
@@ -3050,7 +3023,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "R7") (unit 1)
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -3078,7 +3051,7 @@
           (reference "#PWR09") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR057") (unit 1)
+          (reference "#PWR048") (unit 1)
         )
       )
     )
@@ -3106,7 +3079,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR026") (unit 1)
         )
       )
     )
@@ -3134,7 +3107,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR067") (unit 1)
+          (reference "#PWR036") (unit 1)
         )
       )
     )
@@ -3166,7 +3139,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C21") (unit 1)
+          (reference "C16") (unit 1)
         )
       )
     )
@@ -3194,7 +3167,7 @@
           (reference "#PWR09") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR054") (unit 1)
+          (reference "#PWR039") (unit 1)
         )
       )
     )
@@ -3203,7 +3176,7 @@
   (symbol (lib_id "Device:L_Small") (at 246.38 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 730d2f59-4fd0-4216-b1e3-1ce9c221ec4e)
-    (property "Reference" "L3" (at 246.38 129.54 90)
+    (property "Reference" "L1" (at 246.38 129.54 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2u2" (at 246.38 132.08 90)
@@ -3223,7 +3196,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "L3") (unit 1)
+          (reference "L1") (unit 1)
         )
       )
     )
@@ -3232,7 +3205,7 @@
   (symbol (lib_id "Device:L_Small") (at 368.3 139.7 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7dea4d50-5ec0-42ec-a92d-c1ccee3a8123)
-    (property "Reference" "L1" (at 368.3 143.51 90)
+    (property "Reference" "L2" (at 368.3 143.51 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2u2" (at 368.3 140.97 90)
@@ -3252,7 +3225,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "L1") (unit 1)
+          (reference "L2") (unit 1)
         )
       )
     )
@@ -3280,7 +3253,7 @@
           (reference "#PWR09") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR053") (unit 1)
+          (reference "#PWR040") (unit 1)
         )
       )
     )
@@ -3289,7 +3262,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x03") (at 261.62 223.52 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 84713c17-ab86-48ba-9597-070e91cefe2b)
-    (property "Reference" "J6" (at 261.62 214.63 0)
+    (property "Reference" "J5" (at 261.62 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x03" (at 261.62 217.17 0)
@@ -3307,7 +3280,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "J6") (unit 1)
+          (reference "J5") (unit 1)
         )
       )
     )
@@ -3335,7 +3308,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR035") (unit 1)
+          (reference "#PWR046") (unit 1)
         )
       )
     )
@@ -3344,7 +3317,7 @@
   (symbol (lib_id "Device:R_Small") (at 233.68 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 867f75f4-265c-4e0f-9238-cb975c13f962)
-    (property "Reference" "R16" (at 236.22 60.325 0)
+    (property "Reference" "R10" (at 236.22 60.325 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1k" (at 236.22 62.865 0)
@@ -3364,7 +3337,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "R16") (unit 1)
+          (reference "R10") (unit 1)
         )
       )
     )
@@ -3373,7 +3346,7 @@
   (symbol (lib_id "Device:R_Small") (at 182.88 40.64 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8cdc520a-d317-4cab-a2d4-1f092f51106c)
-    (property "Reference" "R8" (at 185.42 40.005 0)
+    (property "Reference" "R7" (at 185.42 40.005 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1M" (at 185.42 42.545 0)
@@ -3393,7 +3366,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "R8") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -3421,7 +3394,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR046") (unit 1)
+          (reference "#PWR027") (unit 1)
         )
       )
     )
@@ -3445,17 +3418,8 @@
     (property "Height" "0.625" (at 205.74 623.52 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (property "Mouser Part Number" "595-BQ27427YZFR" (at 205.74 723.52 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ27427YZFR?qs=rQFj71Wb1eU5v%2FHj43hVJQ%3D%3D" (at 205.74 823.52 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Name" "Texas Instruments" (at 205.74 923.52 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Part_Number" "BQ27427YZFR" (at 205.74 1023.52 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    (property "MFN" "595-BQ27427YZFR" (at 179.07 228.6 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "A1" (uuid 3e7be7a2-9a24-4d25-8858-c952486c5917))
     (pin "A2" (uuid 4480606c-295f-4df8-8fd4-2d111a50e728))
@@ -3472,7 +3436,7 @@
           (reference "IC4") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "IC4") (unit 1)
+          (reference "IC8") (unit 1)
         )
       )
     )
@@ -3500,7 +3464,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR066") (unit 1)
+          (reference "#PWR035") (unit 1)
         )
       )
     )
@@ -3532,7 +3496,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C20") (unit 1)
+          (reference "C12") (unit 1)
         )
       )
     )
@@ -3560,7 +3524,7 @@
           (reference "#PWR09") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR055") (unit 1)
+          (reference "#PWR049") (unit 1)
         )
       )
     )
@@ -3588,7 +3552,7 @@
           (reference "#PWR09") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR059") (unit 1)
+          (reference "#PWR037") (unit 1)
         )
       )
     )
@@ -3616,7 +3580,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR062") (unit 1)
+          (reference "#PWR029") (unit 1)
         )
       )
     )
@@ -3644,7 +3608,7 @@
           (reference "#PWR09") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR058") (unit 1)
+          (reference "#PWR047") (unit 1)
         )
       )
     )
@@ -3676,7 +3640,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C7") (unit 1)
+          (reference "C23") (unit 1)
         )
       )
     )
@@ -3685,7 +3649,7 @@
   (symbol (lib_id "Device:L_Small") (at 368.3 176.53 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a6bf0fc3-05bb-42b1-8997-e97fcce1f0a4)
-    (property "Reference" "L4" (at 368.3 180.34 90)
+    (property "Reference" "L3" (at 368.3 180.34 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2u2" (at 368.3 177.8 90)
@@ -3705,7 +3669,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "L4") (unit 1)
+          (reference "L3") (unit 1)
         )
       )
     )
@@ -3737,7 +3701,7 @@
           (reference "R3") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "R17") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -3769,7 +3733,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C30") (unit 1)
+          (reference "C18") (unit 1)
         )
       )
     )
@@ -3797,7 +3761,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR045") (unit 1)
+          (reference "#PWR041") (unit 1)
         )
       )
     )
@@ -3829,7 +3793,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C10") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -3861,7 +3825,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C3") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -3870,7 +3834,7 @@
   (symbol (lib_id "ARMband:MP2722GRH-0000-Z") (at 193.04 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bbc450ed-381c-4d74-a174-b5f6ad09d386)
-    (property "Reference" "IC9" (at 205.74 128.27 0)
+    (property "Reference" "IC5" (at 205.74 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MP2722GRH-0000-Z" (at 205.74 130.81 0)
@@ -3885,17 +3849,8 @@
     (property "Height" "1" (at 232.41 529.54 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (property "Mouser Part Number" "" (at 232.41 629.54 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Mouser Price/Stock" "" (at 232.41 729.54 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Name" "Monolithic Power Systems (MPS)" (at 232.41 829.54 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Part_Number" "MP2722GRH-0000-Z" (at 232.41 929.54 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    (property "MFN" " 946-MP2722GRH-0000-Z " (at 193.04 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e7d6ab3e-fbf6-46b4-8d21-24b491f19c6d))
     (pin "10" (uuid c968f91e-7b8c-4b45-ae6c-b01da74b2093))
@@ -3922,7 +3877,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "IC9") (unit 1)
+          (reference "IC5") (unit 1)
         )
       )
     )
@@ -3950,7 +3905,7 @@
           (reference "#PWR09") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR052") (unit 1)
+          (reference "#PWR051") (unit 1)
         )
       )
     )
@@ -3959,7 +3914,7 @@
   (symbol (lib_id "Device:R_Small") (at 260.35 177.8 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c5ea1d01-0824-4f72-8886-36301fe1ab91)
-    (property "Reference" "R18" (at 256.54 180.34 90)
+    (property "Reference" "R15" (at 256.54 180.34 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "92R" (at 264.16 180.34 90)
@@ -3976,7 +3931,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "R18") (unit 1)
+          (reference "R15") (unit 1)
         )
       )
     )
@@ -4008,7 +3963,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C29") (unit 1)
+          (reference "C14") (unit 1)
         )
       )
     )
@@ -4036,7 +3991,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR032") (unit 1)
         )
       )
     )
@@ -4068,7 +4023,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C28") (unit 1)
+          (reference "C13") (unit 1)
         )
       )
     )
@@ -4077,7 +4032,7 @@
   (symbol (lib_id "Device:R_Small") (at 260.35 182.88 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d2e0da93-95d5-4fb0-8a50-66c8132bae40)
-    (property "Reference" "R19" (at 256.54 185.42 90)
+    (property "Reference" "R16" (at 256.54 185.42 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "92R" (at 264.16 185.42 90)
@@ -4094,7 +4049,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "R19") (unit 1)
+          (reference "R16") (unit 1)
         )
       )
     )
@@ -4115,7 +4070,7 @@
     (property "Datasheet" "https://www.mouser.de/datasheet/2/348/rohm_semiconductor_rohm-s-a0008001703-1-1758187.pdf" (at 242.57 182.88 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MNR" "755-SML-P12YTT86RR" (at 242.57 182.88 0)
+    (property "MFN" "755-SML-P12YTT86RR" (at 242.57 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5a677933-7376-4a5b-a4ff-7fa47e9605f9))
@@ -4155,7 +4110,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C19") (unit 1)
+          (reference "C21") (unit 1)
         )
       )
     )
@@ -4179,17 +4134,8 @@
     (property "Height" "6.4" (at 26.67 441.91 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (property "Mouser Part Number" "179-UJ20-C-V-SMTTR68" (at 26.67 541.91 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/UJ20-C-V-SMT-TR-68?qs=HoCaDK9Nz5dJB%252B3Mk1F%2F5A%3D%3D" (at 26.67 641.91 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Name" "CUI Devices" (at 26.67 741.91 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Part_Number" "UJ20-C-V-SMT-TR-68" (at 26.67 841.91 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    (property "MFN" "179-UJ20-C-V-SMTTR68" (at 55.88 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "A1" (uuid 5beb9b2b-48d2-42aa-a918-4bb6ddd47c88))
     (pin "A12" (uuid c2bc77dd-2a13-409b-b76e-722955a562f5))
@@ -4223,7 +4169,7 @@
   (symbol (lib_id "power:+3V3") (at 240.03 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e2d68523-0798-4cf8-9776-64216045bd2a)
-    (property "Reference" "#PWR063" (at 240.03 39.37 0)
+    (property "Reference" "#PWR025" (at 240.03 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 240.03 31.75 0)
@@ -4239,7 +4185,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR063") (unit 1)
+          (reference "#PWR025") (unit 1)
         )
       )
     )
@@ -4267,7 +4213,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR048") (unit 1)
+          (reference "#PWR030") (unit 1)
         )
       )
     )
@@ -4324,7 +4270,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR065") (unit 1)
+          (reference "#PWR043") (unit 1)
         )
       )
     )
@@ -4352,7 +4298,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR057") (unit 1)
         )
       )
     )
@@ -4373,7 +4319,7 @@
     (property "Datasheet" "https://www.mouser.de/datasheet/2/348/rohm_semiconductor_rohm-s-a0008001703-1-1758187.pdf" (at 242.57 177.8 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MNR" "755-SML-P12YTT86RR" (at 242.57 177.8 0)
+    (property "MFN" "755-SML-P12YTT86RR" (at 242.57 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid cacafe6a-cf32-4243-bf0b-6a5be90470a9))
@@ -4390,7 +4336,7 @@
   (symbol (lib_id "ARMband:TPD6E001RSERG4") (at 102.87 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f12517b9-e3f1-45dd-8cb8-89e9b7bba1c4)
-    (property "Reference" "IC5" (at 123.19 39.37 0)
+    (property "Reference" "IC4" (at 123.19 39.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TPD6E001RSERG4" (at 123.19 41.91 0)
@@ -4405,17 +4351,8 @@
     (property "Height" "0.6" (at 134.62 441.91 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (property "Mouser Part Number" "595-TPD6E001RSERG4" (at 134.62 541.91 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPD6E001RSERG4?qs=t6sYTo5dwUw0xcflr5hU2g%3D%3D" (at 134.62 641.91 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Name" "Texas Instruments" (at 134.62 741.91 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Part_Number" "TPD6E001RSERG4" (at 134.62 841.91 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    (property "MFN" "595-TPD6E001RSERG4" (at 102.87 54.61 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ed2e2db5-4787-4868-aac5-a39bcf1f8da1))
     (pin "10" (uuid 7b6ce6f0-9356-48eb-905f-b276e5318e3f))
@@ -4430,7 +4367,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "IC5") (unit 1)
+          (reference "IC4") (unit 1)
         )
       )
     )
@@ -4458,7 +4395,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR061") (unit 1)
+          (reference "#PWR050") (unit 1)
         )
       )
     )
@@ -4490,7 +4427,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C18") (unit 1)
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -4522,7 +4459,7 @@
           (reference "C8") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "C23") (unit 1)
+          (reference "C15") (unit 1)
         )
       )
     )
@@ -4550,7 +4487,7 @@
           (reference "#PWR014") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/ae5dc462-dca9-40e4-ba02-6b87a86a4904"
-          (reference "#PWR025") (unit 1)
+          (reference "#PWR056") (unit 1)
         )
       )
     )

@@ -585,7 +585,7 @@
   (symbol (lib_id "power:GND") (at 171.45 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0c7d3039-1f12-414a-aacc-ba3742188faa)
-    (property "Reference" "#PWR036" (at 171.45 128.27 0)
+    (property "Reference" "#PWR022" (at 171.45 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 171.45 127 0)
@@ -601,7 +601,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/2935dd4b-68c9-428b-bdab-ba656d5b03fa"
-          (reference "#PWR036") (unit 1)
+          (reference "#PWR022") (unit 1)
         )
       )
     )
@@ -666,7 +666,7 @@
           (reference "C12") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/2935dd4b-68c9-428b-bdab-ba656d5b03fa"
-          (reference "C15") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -690,17 +690,8 @@
     (property "Height" "0.87" (at 215.9 516.84 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (property "Mouser Part Number" "262-BMI323" (at 215.9 616.84 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bosch-Sensortec/BMI323?qs=By6Nw2ByBD3%2FE1v0UqNQPQ%3D%3D" (at 215.9 716.84 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Name" "BOSCH" (at 215.9 816.84 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
-    )
-    (property "Manufacturer_Part_Number" "BMI323" (at 215.9 916.84 0)
-      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    (property "MFN" "262-BMI323" (at 189.23 129.54 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0f873d8f-128b-4ae7-b6df-642718a479a5))
     (pin "10" (uuid 8943e35c-822f-4f97-81b7-88e3cafd9d06))
@@ -731,7 +722,7 @@
   (symbol (lib_id "power:GND") (at 204.47 160.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5b8a24a8-434c-4548-8427-782a030d502d)
-    (property "Reference" "#PWR020" (at 204.47 166.37 0)
+    (property "Reference" "#PWR024" (at 204.47 166.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 204.47 165.1 0)
@@ -747,7 +738,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/2935dd4b-68c9-428b-bdab-ba656d5b03fa"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR024") (unit 1)
         )
       )
     )
@@ -756,7 +747,7 @@
   (symbol (lib_id "power:+1V8") (at 217.17 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 672f93d1-272d-4132-bb0e-de7ea1533841)
-    (property "Reference" "#PWR014" (at 217.17 101.6 0)
+    (property "Reference" "#PWR020" (at 217.17 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V8" (at 217.17 93.98 0)
@@ -772,7 +763,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/2935dd4b-68c9-428b-bdab-ba656d5b03fa"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR020") (unit 1)
         )
       )
     )
@@ -781,7 +772,7 @@
   (symbol (lib_id "power:GND") (at 156.21 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 83f73484-cddd-4908-a4bb-f72d1601942a)
-    (property "Reference" "#PWR049" (at 156.21 128.27 0)
+    (property "Reference" "#PWR021" (at 156.21 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 156.21 127 0)
@@ -797,7 +788,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/2935dd4b-68c9-428b-bdab-ba656d5b03fa"
-          (reference "#PWR049") (unit 1)
+          (reference "#PWR021") (unit 1)
         )
       )
     )
@@ -835,7 +826,7 @@
           (reference "C12") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/2935dd4b-68c9-428b-bdab-ba656d5b03fa"
-          (reference "C16") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -895,7 +886,7 @@
           (reference "R15") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/2935dd4b-68c9-428b-bdab-ba656d5b03fa"
-          (reference "R11") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -904,7 +895,7 @@
   (symbol (lib_id "power:GND") (at 186.69 149.86 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f373cdb0-aecc-412d-bb1c-4c36473842be)
-    (property "Reference" "#PWR018" (at 186.69 156.21 0)
+    (property "Reference" "#PWR023" (at 186.69 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 186.69 154.94 0)
@@ -920,7 +911,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/2935dd4b-68c9-428b-bdab-ba656d5b03fa"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR023") (unit 1)
         )
       )
     )

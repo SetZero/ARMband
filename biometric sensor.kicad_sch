@@ -444,7 +444,7 @@
           (reference "#PWR015") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/db6ac415-a2f9-4935-934d-f0e91f8b44d3"
-          (reference "#PWR043") (unit 1)
+          (reference "#PWR064") (unit 1)
         )
       )
     )
@@ -479,7 +479,7 @@
           (reference "C30") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/db6ac415-a2f9-4935-934d-f0e91f8b44d3"
-          (reference "C17") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
     )
@@ -507,7 +507,7 @@
           (reference "#PWR015") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/db6ac415-a2f9-4935-934d-f0e91f8b44d3"
-          (reference "#PWR070") (unit 1)
+          (reference "#PWR060") (unit 1)
         )
       )
     )
@@ -542,7 +542,7 @@
           (reference "C29") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/db6ac415-a2f9-4935-934d-f0e91f8b44d3"
-          (reference "C11") (unit 1)
+          (reference "C27") (unit 1)
         )
       )
     )
@@ -570,7 +570,7 @@
           (reference "#PWR019") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/db6ac415-a2f9-4935-934d-f0e91f8b44d3"
-          (reference "#PWR040") (unit 1)
+          (reference "#PWR059") (unit 1)
         )
       )
     )
@@ -598,7 +598,7 @@
           (reference "#PWR015") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/db6ac415-a2f9-4935-934d-f0e91f8b44d3"
-          (reference "#PWR038") (unit 1)
+          (reference "#PWR063") (unit 1)
         )
       )
     )
@@ -633,7 +633,7 @@
           (reference "C14") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/db6ac415-a2f9-4935-934d-f0e91f8b44d3"
-          (reference "C12") (unit 1)
+          (reference "C26") (unit 1)
         )
       )
     )
@@ -652,9 +652,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.mouser.de/datasheet/2/609/MAX30102-3128143.pdf" (at 135.89 62.23 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "FootprintDatasheet" "https://pdfserv.maximintegrated.com/land_patterns/90-0602.PDF" (at 135.89 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "10" (uuid a62ed362-1e81-4843-8f7a-a326e8f91f53))
@@ -705,7 +702,7 @@
           (reference "#PWR024") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/db6ac415-a2f9-4935-934d-f0e91f8b44d3"
-          (reference "#PWR069") (unit 1)
+          (reference "#PWR058") (unit 1)
         )
       )
     )
@@ -740,7 +737,7 @@
           (reference "C14") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/db6ac415-a2f9-4935-934d-f0e91f8b44d3"
-          (reference "C31") (unit 1)
+          (reference "C25") (unit 1)
         )
       )
     )
@@ -768,7 +765,7 @@
           (reference "#PWR015") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/db6ac415-a2f9-4935-934d-f0e91f8b44d3"
-          (reference "#PWR071") (unit 1)
+          (reference "#PWR061") (unit 1)
         )
       )
     )
@@ -796,7 +793,7 @@
           (reference "#PWR015") (unit 1)
         )
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/db6ac415-a2f9-4935-934d-f0e91f8b44d3"
-          (reference "#PWR039") (unit 1)
+          (reference "#PWR062") (unit 1)
         )
       )
     )

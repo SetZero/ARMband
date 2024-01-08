@@ -387,7 +387,7 @@
   (symbol (lib_id "ARMband:MEM2075-00-140-01-A") (at 116.84 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 99790eb7-ac24-4a70-8bfc-f9b6e516cbcc)
-    (property "Reference" "J2" (at 133.35 67.31 0)
+    (property "Reference" "J1" (at 133.35 67.31 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MEM2075-00-140-01-A" (at 133.35 69.85 0)
@@ -405,17 +405,8 @@
     (property "Height" "1.45" (at 146.05 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Mouser Part Number" "640-MEM20750014001A" (at 146.05 81.28 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/GCT/MEM2075-00-140-01-A?qs=KUoIvG%2F9IlZvfWpeERlq3Q%3D%3D" (at 146.05 83.82 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Manufacturer_Name" "GCT (GLOBAL CONNECTOR TECHNOLOGY)" (at 146.05 86.36 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Manufacturer_Part_Number" "MEM2075-00-140-01-A" (at 146.05 88.9 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
+    (property "MFN" "640-MEM20750014001A" (at 116.84 73.66 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "MP1" (uuid 683b83ed-dade-43bb-b1b1-8babb80ac014))
     (pin "MP2" (uuid c6df59ec-9210-4115-86d0-f3ab1583fa85))
@@ -433,7 +424,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/0a0ae5b4-f4a7-4c33-a046-43f968bc1e4a"
-          (reference "J2") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -442,7 +433,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x09") (at 66.04 81.28 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b1554c28-99f5-44db-ad2a-eb712c4086b4)
-    (property "Reference" "J1" (at 60.96 81.28 90)
+    (property "Reference" "J2" (at 60.96 81.28 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x09" (at 63.5 81.28 90)
@@ -466,7 +457,7 @@
     (instances
       (project "armband"
         (path "/017c50c6-333c-4d31-ad5a-278994a09b14/0a0ae5b4-f4a7-4c33-a046-43f968bc1e4a"
-          (reference "J1") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
