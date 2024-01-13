@@ -672,6 +672,10 @@
     [
       "0f96e19b-d41b-4945-bc3e-e069fd03603c",
       "light sensor"
+    ],
+    [
+      "57bf52e0-9f8b-45fd-9a54-2bbc2fb4af6b",
+      "rotary_encoder"
     ]
   ],
   "text_variables": {}
