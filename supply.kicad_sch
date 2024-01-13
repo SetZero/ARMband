@@ -3691,9 +3691,9 @@
     (property "Arrow Price/Stock" "https://www.arrow.com/en/products/sm03b-srss-tb-lf-sn/jst-manufacturing?region=europe" (at 267.97 1217.17 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (pin "3" (uuid a8a4787b-0f75-4290-a8f4-20c93fae8f46))
-    (pin "2" (uuid 1060cab2-4f79-4c60-91b1-2a5f2aa415e5))
     (pin "1" (uuid a2068447-b9fd-4267-8e22-6a0fae1e5313))
+    (pin "2" (uuid 1060cab2-4f79-4c60-91b1-2a5f2aa415e5))
+    (pin "3" (uuid a8a4787b-0f75-4290-a8f4-20c93fae8f46))
     (pin "MP1" (uuid 75b6391f-324c-45bf-aef8-75299f571139))
     (pin "MP2" (uuid efa2faa4-2514-4a19-8ee3-cfc3d8a77cc4))
     (instances
