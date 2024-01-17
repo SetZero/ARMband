@@ -152,7 +152,7 @@
   (pad "B2" smd circle (at 5 5 90) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 989c900a-9a12-420e-a736-7479f4367c60))
   (pad "C1" smd circle (at 4 4 90) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2272d96b-8278-49d3-81cc-aece67a98a87))
   (pad "C3" smd circle (at 6 4 90) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c5f7f908-f679-4770-9314-6622f5a39b72))
-  (model "C:\\KIcadLibraryLoader\\SamacSys_Parts.3dshapes\\QSMP-1570.stp"
+  (model "${KIPRJMOD}/ARMBand.3dshapes/QSMP-1570.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

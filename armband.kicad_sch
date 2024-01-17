@@ -1570,7 +1570,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 269726a9-6eb8-4154-969c-c426d4921714)
   )
-  (text "I²C Device List\n\n| Name          | Addr | Alt  |\n|---------------|------|------|\n|Ambient Light  | 0x10 |   -  |\n|Touch          | 0x24 |      |\n|Battery Charge | 0x3F |      |  \n|Gauge          | 0x55 |      |  \n|Heart Rate     | 0x57 |      |\n|6dof           | 0x68 | 0x69 |\n|Magnetic Sens. | 0x6A |      |\n|BLE + NFC      | prog.       |"
+  (text "I²C Device List\n\n| Name          | Addr | Alt  |\n|---------------|------|------|\n|Ambient Light  | 0x10 |   -  |\n|BMM350         | 0x14 | 0x15 |\n|Touch          | 0x24 |      |\n|Battery Charge | 0x3F |      |  \n|Gauge          | 0x55 |      |  \n|Heart Rate     | 0x57 |      |\n|6dof           | 0x68 | 0x69 |\n|Magnetic Sens. | 0x6A |      |\n|BLE + NFC      | prog.       |"
     (at 254 279.4 0)
     (effects (font (face "Cascadia Mono") (size 1.27 1.27)) (justify left bottom))
     (uuid 5a78d705-5720-427c-9d69-76b2134450d5)

@@ -95,7 +95,7 @@
   (pad "H5" smd circle (at 0.4 1.4) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9f678977-75f6-4584-b480-6be31999c675))
   (pad "H6" smd circle (at 0.8 1.4) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 79621ac9-38d9-4615-8b74-658baf4c26a6))
   (pad "H7" smd circle (at 1.2 1.4) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b91a9833-d7c5-4a46-a1fe-88d9cf174ecf))
-  (model "D:\\library_loader\\SamacSys_Parts.3dshapes\\nRF52832-CIAA-G-R7.stp"
+  (model "${KIPRJMOD}/ARMBand.3dshapes/nRF52832-CIAA-G-R7.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

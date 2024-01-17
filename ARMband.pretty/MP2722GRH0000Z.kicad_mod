@@ -65,7 +65,7 @@
   (pad "21" smd rect (at -0.6 -1.7) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 71961459-f45b-4a6f-8a4a-674f7a8fd6b6))
   (pad "22" smd rect (at -1.25 -1.45 90) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e5592eb6-1b71-4f9f-b9d5-a483f2d9be0d))
   (pad "22" smd rect (at -1 -1.8) (size 0.2 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6760893f-ca42-4bc5-9d41-6554d6ee890d))
-  (model "D:\\library_loader\\SamacSys_Parts.3dshapes\\MP2722GRH-0000-Z.stp"
+  (model "${KIPRJMOD}/ARMBand.3dshapes/MP2722GRH-0000-Z.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

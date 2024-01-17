@@ -66,7 +66,7 @@
   (pad "P7" smd rect (at -4.495 -7.725) (size 0.62 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c031cd02-b214-46f2-8ddf-9ec8b004cd17))
   (pad "P8" smd rect (at -5.595 -7.725) (size 0.62 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 910041bd-f738-455d-819a-64cd59cc55ed))
   (pad "P9" smd rect (at -6.695 -7.725) (size 0.62 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7a8a7caa-d352-48a5-a79c-454bfec70c04))
-  (model "D:\\SamacSys_PCB_Library\\LibLoaderHatesMe\\SamacSys_Parts.3dshapes\\MEM2075-00-140-01-A.stp"
+  (model "${KIPRJMOD}/ARMBand.3dshapes/MEM2075-00-140-01-A.stp"
     (offset (xyz 0 -7.699999694 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -54,7 +54,7 @@
   (pad "C1" smd circle (at -0.4 0.4 90) (size 0.208 0.208) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 259d72cb-5b74-4241-9c48-508c0cc71811))
   (pad "C2" smd circle (at 0 0.4 90) (size 0.208 0.208) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4d6d4a95-49f5-4c2c-ae8f-528be4336393))
   (pad "C3" smd circle (at 0.4 0.4 90) (size 0.208 0.208) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 83ac6538-6f4b-4f8a-838a-7d39bf18799e))
-  (model "D:\\SamacSys_PCB_Library\\LibLoaderHatesMe\\SamacSys_Parts.3dshapes\\STC3117IJT.stp"
+  (model "${KIPRJMOD}/ARMBand.3dshapes/BQ27427YZFR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

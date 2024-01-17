@@ -67,7 +67,7 @@
   (pad "MH2" thru_hole circle (at 5.12 -2.58) (size 1.15 1.15) (drill 0.75) (layers "*.Cu" "*.Mask") (tstamp 2f663049-a5fb-40be-bd86-d32a1aca6b07))
   (pad "MH3" thru_hole circle (at 5.12 2.58) (size 1.15 1.15) (drill 0.75) (layers "*.Cu" "*.Mask") (tstamp 23033c0d-8a1c-4458-b00b-f91ab2d93bc3))
   (pad "MH4" thru_hole circle (at -5.12 2.58) (size 1.15 1.15) (drill 0.75) (layers "*.Cu" "*.Mask") (tstamp b7fec3c8-9272-4983-abde-375b012b1ea2))
-  (model "D:\\library_loader\\SamacSys_Parts.3dshapes\\UJ20-C-V-SMT-TR-68.stp"
+  (model "${KIPRJMOD}/ARMBand.3dshapes/UJ20-C-V-SMT-TR-68.stp"
     (offset (xyz 0 0 4.559999874))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))

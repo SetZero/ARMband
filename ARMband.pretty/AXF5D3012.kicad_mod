@@ -93,7 +93,7 @@
   (pad "31" smd rect (at 2.885 0.9) (size 0.28 0.38) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0e302a1a-f856-4c8e-b13b-27d65abba68c))
   (pad "31" smd rect (at 3.475 -0.885) (size 0.6 0.73) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9ad99746-2cc8-421c-845a-26796ee4eba2))
   (pad "31" smd rect (at 3.475 0.885) (size 0.6 0.73) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4385205b-a0b5-49ad-a7cd-92d1c309857b))
-  (model "C:\\KIcadLibraryLoader\\SamacSys_Parts.3dshapes\\AXF5D3012.stp"
+  (model "${KIPRJMOD}/ARMBand.3dshapes/AXF5D3012.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

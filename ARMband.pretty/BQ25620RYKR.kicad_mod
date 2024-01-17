@@ -61,7 +61,7 @@
   (pad "16" smd rect (at 0.175 -0.95) (size 0.2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c38b84b2-aa12-4f32-8958-cdc605b73f67))
   (pad "17" smd rect (at -0.225 -0.95) (size 0.2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ba2f2c1a-fbd9-4ef4-940f-99a5909d78c1))
   (pad "18" smd rect (at -0.625 -1.141) (size 0.2 0.619) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 988eb7a9-293f-4caf-b058-c683a4b2dbdb))
-  (model "D:\\library_loader\\SamacSys_Parts.3dshapes\\BQ25622ERYKR.stp"
+  (model "${KIPRJMOD}/ARMBand.3dshapes/BQ25620RYKR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
