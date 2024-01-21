@@ -680,7 +680,7 @@
     (property "Value" "AXF5D3012" (at 125.73 67.31 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "ARMband:AXF5D3012" (at 134.62 68.58 0)
+    (property "Footprint" "ARMband:display_AXF5D3012" (at 134.62 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/104" (at 134.62 71.12 0)
