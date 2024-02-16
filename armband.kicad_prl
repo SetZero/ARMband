@@ -1,9 +1,14 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 4,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [],
+    "hidden_netclasses": [
+      "DRAM_ADDR_CTRL",
+      "DRAM_BANK0",
+      "DRAM_CLK",
+      "Default"
+    ],
     "hidden_nets": [
       "",
       "VBAT+",
@@ -52,7 +57,6 @@
       "QSMP_LCD_EN",
       "DEC4",
       "BMM350_INT",
-      "unconnected-(IC1-ENET_TX_CTL-Pad30)",
       "unconnected-(IC1-ENET_TXC-Pad31)",
       "unconnected-(IC1-ENET_TXD3-Pad32)",
       "unconnected-(IC1-ENET_TXD2-Pad33)",
@@ -118,7 +122,7 @@
       "JTAG_TDI",
       "JTAG_TCK",
       "Net-(IC2-SDO)",
-      "Net-(IC2-NC_1)",
+      "unconnected-(IC2-NC_4-Pad11)",
       "Net-(IC3-EN{slash}UVLO)",
       "/supply/VIN_FAULT",
       "Net-(IC3-ILM)",
@@ -136,6 +140,7 @@
       "QSMP_BUCK_1V8_EN",
       "Net-(IC4-IO1)",
       "Net-(IC4-IO2)",
+      "unconnected-(IC4-N.C._1-Pad4)",
       "Net-(IC4-IO5)",
       "Net-(IC4-IO6)",
       "Net-(IC5-VRNTC)",
@@ -157,6 +162,7 @@
       "unconnected-(IC9-P0.24-PadE1)",
       "unconnected-(IC9-P0.23-PadE2)",
       "unconnected-(IC9-P0.04_{slash}AIN2-PadE6)",
+      "unconnected-(IC9-P0.07-PadF6)",
       "NRF_SWCLK",
       "unconnected-(IC9-P0.22-PadF2)",
       "unconnected-(IC9-P0.19-PadF3)",
@@ -171,9 +177,11 @@
       "unconnected-(J2-Pin_8-Pad8)",
       "Net-(IC7-SW)",
       "unconnected-(IC9-P0.18_{slash}TRACEDATA[0]-PadH2)",
+      "unconnected-(IC9-P0.11-PadF4)",
       "Net-(D1-K)",
       "TH_BAT",
       "Net-(D2-K)",
+      "unconnected-(IC9-P0.12-PadH6)",
       "Net-(J3-NC-Pad15)",
       "NFC_ANT2",
       "NFC_ANT1",
@@ -184,10 +192,17 @@
       "unconnected-(U2-NC-Pad3)",
       "unconnected-(U2-NC-Pad6)",
       "Net-(L4-Pad1)",
+      "unconnected-(J6-Pin_7-Pad7)",
+      "unconnected-(J6-Pin_9-Pad9)",
+      "unconnected-(IC4-N.C._2-Pad9)",
       "unconnected-(IC1-SPIB_NSS-Pad97)",
       "unconnected-(IC1-SPIB_MISO-Pad98)",
       "unconnected-(IC1-SPIB_MOSI-Pad99)",
-      "unconnected-(IC1-SPIB_SCK-Pad100)"
+      "unconnected-(IC1-SPIB_SCK-Pad100)",
+      "unconnected-(IC2-NC_3-Pad10)",
+      "unconnected-(IC2-NC_2-Pad3)",
+      "unconnected-(IC2-NC_1-Pad2)",
+      "unconnected-(IC1-ENET_TX_CTL-Pad30)"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -248,7 +263,7 @@
       39,
       40
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "ffcffcf_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
