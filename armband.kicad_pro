@@ -173,13 +173,20 @@
       ],
       "track_widths": [
         0.0,
-        0.09,
-        0.25
+        0.09
       ],
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.25,
+          "drill": 0.15
+        },
+        {
+          "diameter": 0.35,
+          "drill": 0.2
         }
       ],
       "zones_allow_external_fillets": false
@@ -443,7 +450,7 @@
         "microvia_diameter": 0.25,
         "microvia_drill": 0.15,
         "name": "DRAM_ADDR_CTRL",
-        "pcb_color": "rgb(255, 255, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.09,
         "via_diameter": 0.25,
@@ -460,7 +467,7 @@
         "microvia_diameter": 0.25,
         "microvia_drill": 0.15,
         "name": "DRAM_BANK0",
-        "pcb_color": "rgb(25, 255, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.09,
         "via_diameter": 0.25,
@@ -477,7 +484,7 @@
         "microvia_diameter": 0.25,
         "microvia_drill": 0.15,
         "name": "DRAM_BANK1",
-        "pcb_color": "rgb(255, 139, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.09,
         "via_diameter": 0.25,
@@ -494,7 +501,7 @@
         "microvia_diameter": 0.25,
         "microvia_drill": 0.15,
         "name": "DRAM_CLK",
-        "pcb_color": "rgb(237, 3, 255)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.09,
         "via_diameter": 0.25,
@@ -647,16 +654,36 @@
       ""
     ],
     [
-      "5731d22b-18c2-4920-9f80-2a6ce209edf2",
-      "power"
+      "0a0ae5b4-f4a7-4c33-a046-43f968bc1e4a",
+      "debug"
     ],
     [
-      "f5831ad7-86f4-4338-9d6c-a9943f11383a",
-      "RAM"
+      "ea4ffdec-697e-4619-8bda-0f4c7cf70f55",
+      "display"
     ],
     [
-      "486c2044-10e8-4af1-b5d5-a133bea25b9d",
-      "flash"
+      "2935dd4b-68c9-428b-bdab-ba656d5b03fa",
+      "9dof"
+    ],
+    [
+      "ae5dc462-dca9-40e4-ba02-6b87a86a4904",
+      "supply"
+    ],
+    [
+      "db6ac415-a2f9-4935-934d-f0e91f8b44d3",
+      "biometric sensor"
+    ],
+    [
+      "3720f3b4-03b0-4b33-b5d9-366640292599",
+      "BLE + NFC"
+    ],
+    [
+      "0f96e19b-d41b-4945-bc3e-e069fd03603c",
+      "light sensor"
+    ],
+    [
+      "57bf52e0-9f8b-45fd-9a54-2bbc2fb4af6b",
+      "rotary_encoder"
     ]
   ],
   "text_variables": {}
