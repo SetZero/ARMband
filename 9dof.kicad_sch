@@ -45,11 +45,11 @@
           (name "SDO" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 22.86 -25.4 90) (length 5.08) hide
+        (pin no_connect line (at 22.86 -25.4 90) (length 5.08) hide
           (name "NC_3" (effects (font (size 1.27 1.27))))
           (number "10" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 22.86 -25.4 90) (length 5.08) hide
+        (pin no_connect line (at 22.86 -25.4 90) (length 5.08) hide
           (name "NC_4" (effects (font (size 1.27 1.27))))
           (number "11" (effects (font (size 1.27 1.27))))
         )
@@ -65,11 +65,11 @@
           (name "SDX" (effects (font (size 1.27 1.27))))
           (number "14" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 22.86 -25.4 90) (length 5.08) hide
+        (pin no_connect line (at 22.86 -25.4 90) (length 5.08) hide
           (name "NC_1" (effects (font (size 1.27 1.27))))
           (number "2" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 22.86 -25.4 90) (length 5.08) hide
+        (pin no_connect line (at 22.86 -25.4 90) (length 5.08) hide
           (name "NC_2" (effects (font (size 1.27 1.27))))
           (number "3" (effects (font (size 1.27 1.27))))
         )
@@ -751,6 +751,18 @@
     (property "MFN" "262-BMI323" (at 189.23 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser Part Number" "262-BMI323" (at 215.9 616.84 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bosch-Sensortec/BMI323?qs=By6Nw2ByBD3%2FE1v0UqNQPQ%3D%3D" (at 215.9 716.84 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (property "Manufacturer_Name" "BOSCH" (at 215.9 816.84 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (property "Manufacturer_Part_Number" "BMI323" (at 215.9 916.84 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
     (pin "1" (uuid 0f873d8f-128b-4ae7-b6df-642718a479a5))
     (pin "10" (uuid 8943e35c-822f-4f97-81b7-88e3cafd9d06))
     (pin "11" (uuid 2a49493e-b890-44fc-9226-80fe4d8d0e23))
@@ -1060,7 +1072,7 @@
     (property "Value" "10k" (at 185.42 146.05 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (at 186.69 144.78 0)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (at 186.69 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.mouser.de/datasheet/2/315/AOA0000C301-1488782.pdf" (at 186.69 144.78 0)
