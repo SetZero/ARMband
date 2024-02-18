@@ -56,27 +56,27 @@
         )
       )
       (symbol "MAX30102EFD_1_0"
-        (pin unspecified line (at -2.54 -15.24 90) (length 2.54) hide
+        (pin no_connect line (at -2.54 -15.24 90) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
-        (pin unspecified line (at -2.54 -15.24 90) (length 2.54) hide
+        (pin no_connect line (at -2.54 -15.24 90) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "14" (effects (font (size 1.27 1.27))))
         )
-        (pin unspecified line (at -2.54 -15.24 90) (length 2.54) hide
+        (pin no_connect line (at -2.54 -15.24 90) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "5" (effects (font (size 1.27 1.27))))
         )
-        (pin unspecified line (at -2.54 -15.24 90) (length 2.54) hide
+        (pin no_connect line (at -2.54 -15.24 90) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "6" (effects (font (size 1.27 1.27))))
         )
-        (pin unspecified line (at -2.54 -15.24 90) (length 2.54) hide
+        (pin no_connect line (at -2.54 -15.24 90) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "7" (effects (font (size 1.27 1.27))))
         )
-        (pin unspecified line (at -2.54 -15.24 90) (length 2.54) hide
+        (pin no_connect line (at -2.54 -15.24 90) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "8" (effects (font (size 1.27 1.27))))
         )
@@ -652,6 +652,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.mouser.de/datasheet/2/609/MAX30102-3128143.pdf" (at 135.89 62.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "FootprintDatasheet" "https://pdfserv.maximintegrated.com/land_patterns/90-0602.PDF" (at 135.89 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "10" (uuid a62ed362-1e81-4843-8f7a-a326e8f91f53))
